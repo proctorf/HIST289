@@ -622,7 +622,7 @@ Readings:
 **Thursday, November 27**  
 **NO CLASS - THANKSGIVING BREAK**
 
-### Week 15
+### Week 14
 
 **Tuesday, December 2**  
 **Final Project Workday**
@@ -630,7 +630,7 @@ Readings:
 **Thursday, December 4**  
 **Final Project Workday**
 
-### Week 16
+### Week 15
 
 **Tuesday, December 9**  
 **Final Project Workday**
@@ -640,5 +640,5 @@ Readings:
 
 Course Evaluations
 
-**Final Project Due: Thursday, December 11, 2025 @ 4pm**
+**Final Project Due: Sunday, December 14, 2025 @ 8:30pm**
  
