@@ -1,3 +1,7 @@
+---
+title: Fugative Slaves in Ohio
+---
+
 **HIST 289 -- Digital History: Enslaved Fugitives in Ohio**
 
 **Fall 2025**
@@ -6,8 +10,8 @@
 
 Class: TTh 130-250 Talbot 229
 
-Office Hours: T 1230-130 & 3-4, Th 1030-1130, **and by appointment (in
-person or via Zoom)**
+Office Hours: MWF 10:30-1130, Tues 9-10, and **by appointment**
+(in person or via Zoom)
 
 Office: 404 Fellows Hall
 
@@ -614,15 +618,10 @@ Readings:
 **Thursday, November 20**  
 **Final Project Workday**
 
-### THANKSGIVING BREAK
+### THANKSGIVING BREAK (Nov 24-28)
 
-**Tuesday, November 25**  
-**NO CLASS - THANKSGIVING BREAK**
 
-**Thursday, November 27**  
-**NO CLASS - THANKSGIVING BREAK**
-
-### Week 15
+### Week 14
 
 **Tuesday, December 2**  
 **Final Project Workday**
@@ -630,7 +629,7 @@ Readings:
 **Thursday, December 4**  
 **Final Project Workday**
 
-### Week 16
+### Week 15
 
 **Tuesday, December 9**  
 **Final Project Workday**
