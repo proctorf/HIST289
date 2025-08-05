@@ -452,7 +452,7 @@ leave.
 
 ## Course Schedule - Fall 2025
 
-### Week 1
+### Week 1 {#week1}
 
 **Thursday, August 28**  
 Introductions and Course Overview
@@ -461,7 +461,7 @@ Introductions and Course Overview
 - [Google Drive Installation](https://docs.google.com/document/d/1cQHefWqXcXQq9bbJGlev4kIz2uE7f6xvC0s79sdC3sI/edit?usp=sharing)
 - **Timeline_JS Introduction**
 
-### Week 2
+### Week 2 {#week2}
 
 **Tuesday, September 2**  
 **What is History? Digital Humanities? Digital History? (H)**
@@ -479,7 +479,7 @@ Readings:
 - Thelma Jennings, "'[Us Colored Women Had to Go Through A Plenty': Sexual Exploitation and African American Women](http://0-gateway.proquest.com.dewey2.library.denison.edu/openurl?url_ver=Z39.88-2004&res_dat=xri:pao-us:&rft_dat=xri:pao:article:h338-1990-001-03-000003)," *Journal of Women's History* (1990): 45-74.
 - Walter Johnson, [*Soul by Soul: Life Inside the Antebellum Slave Market*](https://drive.google.com/file/d/1mFs5Eul_wiBaU2L-zb4Rk_bQueR96Gsl/view?usp=sharing) (Cambridge: Harvard Univ Press, 1999), pg 19-24 & 117-134.
 
-### Week 3
+### Week 3 {#week3}
 
 **Tuesday, September 9**  
 **QGIS Lab**
@@ -491,7 +491,7 @@ Readings:
 - Susan Schulten, "[The Cartography of Slavery and the Authority of Statistics](https://doi.org/10.1353/cwh.0.0141)," *Civil War History* 56:1 (2010): 5-32.
 - Ellen Gruber Garvey, "['facts and FACTS': Abolitionists Database Innovations](https://doi-org.denison.idm.oclc.org/10.7551/mitpress/9302.003.0007)," in *"Raw Data" is an Oxymoron*, Lisa Gitelman, ed. (Cambridge, Ma: MIT Press, 2013), 89-102.
 
-### Week 4
+### Week 4 {#week4}
 
 **Tuesday, September 16**  
 **QGIS Lab**
@@ -503,7 +503,7 @@ Readings:
 - Matthew Salafia, "Fugitive Slaves and the Borderland" from [*Slavery's Borderland: Freedom and Bondage Along the Ohio River*](https://www-jstor-org.denison.idm.oclc.org/stable/j.ctt3fhvrx) (Univ. of Pennsylvania Press, 2013): 165-184
 - R.H.M Blackett, "Western Kentucky and Ohio" in [*The Captive's Quest for Freedom: Fugitive Slaves, the 1850 Fugitive Slave Law, and the Politics of Slavery*](https://doi-org.denison.idm.oclc.org/10.1017/9781108275439) (Cambridge Univ. Press, 2018): 222-268
 
-### Week 5
+### Week 5 {#week5}
 
 **Tuesday, September 23**  
 **Website Assessment (homework)**
@@ -511,7 +511,7 @@ Readings:
 **Thursday, September 25**  
 **Database (SpreadSheet) Construction**
 
-### Week 6
+### Week 6 {#week6}
 
 **Tuesday, September 30**  
 **Runaway Slaves in the US (H)**
@@ -526,7 +526,7 @@ Readings:
 Reading:
 - Andrew Wiseman, "[When Maps Lie: Tips from a geographer on how to avoid being fooled](https://www.bloomberg.com/news/articles/2015-06-25/how-to-avoid-being-fooled-by-bad-maps?utm_source=website&utm_medium=share&utm_campaign=copy)," *Bloomberg.com*, 6/25/2015
 
-### Week 7
+### Week 7 {#week7}
 
 **Tuesday, October 7**  
 **Runaway Slaves in US, cont (H) / ARC StoryMaps**
@@ -542,7 +542,7 @@ Readings:
 - Cameron Blevins, "[Space, Nation, and the Triumph of Region: A View of the World from Houston](https://www.jstor.org/stable/44285951)," *The Journal of American History* 101:1 (2014): 122-147.
 - Jesse Hoffnung-Garskof, "[Cuban Racial Politics in Nineteenth-Century New York: A Critical Approach](https://doi-org.denison.idm.oclc.org/10.1093/ahr/rhab007)," *American Historical Review* 126:1 (2021): 109-139.
 
-### Week 8
+### Week 8 {#week8}
 
 **Tuesday, October 14**  
 **XML 1 - Annotation/Text Encoding**
@@ -555,7 +555,7 @@ Readings:
 **Thursday, October 16**  
 **FALL BREAK - NO CLASS**
 
-### Week 9
+### Week 9 {#week9}
 
 **Tuesday, October 21**  
 **XML II Tutorial / Website Assessment**
@@ -563,7 +563,7 @@ Readings:
 **Thursday, October 23**  
 **XML/PEI (Proctor's Encoding Initiative)**
 
-### Week 10
+### Week 10 {#week10}
 
 **Tuesday, October 28**  
 **Runaway Slave Narratives**
@@ -580,7 +580,7 @@ Readings:
 - Robert K. Nelson, [Introduction](http://dsl.richmond.edu/dispatch/pages/intro) to *Mining the Dispatch*
 - Cameron Blevins, "[Topic Modeling Martha Ballard's Diary](http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/)," April 1, 2010
 
-### Week 11
+### Week 11 {#week11}
 
 **Tuesday, November 4**  
 **Distant Reading II - Antconc or Mallet / AI?**
@@ -593,7 +593,7 @@ Readings:
 - Jessica Marie Johnson, "Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads," *Social Text* 36:4 (2018): 57-79.
 - Catherine D'Ignazio and Lauren Klein, "CH 6 - The Numbers Don't Speak for Themselves," in [*Data Feminism*](https://dewey2.library.denison.edu/record=b8287792~S6) (Cambridge, MA: MIT University Press, 2020), 149-172.
 
-### Week 12
+### Week 12 {#week12}
 
 **Tuesday, November 11**  
 **Visualizations / Tableau**
@@ -610,7 +610,7 @@ Readings:
 - Lauren F. Klein, "[Feminist data visualization; Or, the shape of history](http://lklein.com/2017/01/feminist-data-visualization-or-the-shape-of-history)"
 - Frank Jacobs, "[The Minard Map - Vital statistics of Napoleon's deadliest campaign](https://bigthink.com/strange-maps/229-vital-statistics-of-a-deadly-campaign-the-minard-map/)"
 
-### Week 13
+### Week 13 {#week13}
 
 **Tuesday, November 18**  
 **Other cool tools - Inky, OpenRefine, and GEPHI**
@@ -618,10 +618,10 @@ Readings:
 **Thursday, November 20**  
 **Final Project Workday**
 
-### THANKSGIVING BREAK (Nov 24-28)
+### THANKSGIVING BREAK (Nov 24-28) {#thanksgiving}
 
 
-### Week 14
+### Week 14 {#week14}
 
 **Tuesday, December 2**  
 **Final Project Workday**
@@ -629,7 +629,7 @@ Readings:
 **Thursday, December 4**  
 **Final Project Workday**
 
-### Week 15
+### Week 15 {#week15}
 
 **Tuesday, December 9**  
 **Final Project Workday**
