@@ -6,6 +6,8 @@ title: Fugative Slaves in Ohio
 
 **Fall 2025**
 
+![Runaway slave advertisement](media/runaway.jpg)
+
 **Professor Frank "Trey" Proctor III**
 
 Class: TTh 130-250 Talbot 229
