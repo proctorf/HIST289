@@ -7,12 +7,12 @@ Use these iframe embed codes in Canvas to link directly to specific weeks in the
 
 ## Week 1 - Course Introduction
 ```html
-<iframe src="https://proctorf.github.io/HIST289/#week1" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="https://proctorf.github.io/HIST289/week1" width="100%" height="600" frameborder="0"></iframe>
 ```
 
 ## Week 2 - Digital Humanities & Slavery
 ```html
-<iframe src="https://proctorf.github.io/HIST289/#week2" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="https://proctorf.github.io/HIST289/week2" width="100%" height="600" frameborder="0"></iframe>
 ```
 
 ## Week 3 - QGIS & Data
@@ -91,8 +91,8 @@ Use these iframe embed codes in Canvas to link directly to specific weeks in the
 
 If you prefer to use direct links instead of iframes, use these URLs:
 
-- **Week 1**: https://proctorf.github.io/HIST289/#week1
-- **Week 2**: https://proctorf.github.io/HIST289/#week2
+- **Week 1**: https://proctorf.github.io/HIST289/week1
+- **Week 2**: https://proctorf.github.io/HIST289/week2
 - **Week 3**: https://proctorf.github.io/HIST289/#week3
 - **Week 4**: https://proctorf.github.io/HIST289/#week4
 - **Week 5**: https://proctorf.github.io/HIST289/#week5
