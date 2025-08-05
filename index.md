@@ -614,7 +614,7 @@ Readings:
 **Thursday, November 20**  
 **Final Project Workday**
 
-### Week 14 - THANKSGIVING BREAK
+### THANKSGIVING BREAK
 
 **Tuesday, November 25**  
 **NO CLASS - THANKSGIVING BREAK**
@@ -628,6 +628,14 @@ Readings:
 **Final Project Workday**
 
 **Thursday, December 4**  
+**Final Project Workday**
+
+### Week 16
+
+**Tuesday, December 9**  
+**Final Project Workday**
+
+**Thursday, December 11**  
 **Presentations**
 
 Course Evaluations
