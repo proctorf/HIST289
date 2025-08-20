@@ -203,7 +203,7 @@ computationally and historically at the same time.
 
 **Reading Responses (22.5%)**
 
-Throughout the semester, I will post questions to Notebowl for most of
+Throughout the semester, I will post questions to Canvas for most of
 the readings. At times these might be discussion boards, in other
 instances they will be informal writing assignments. The goal is to
 demonstrate that you are completing the readings; thinking critically
