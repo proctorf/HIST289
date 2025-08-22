@@ -279,18 +279,9 @@ and tools that we learn together in class.
 
 That website will house three types of student work.
 
-1)  DATA -- The first will be the data, students will text encode a
-    > number of runaway ads throughout the semester, you will generate
-    > and populate a database that holds the structured data you deem
-    > important from the ads you select and encode.
+1)  DATA -- The first will be the data, students will text encode a number of runaway ads throughout the semester, you will generate and populate a database that holds the structured data you deem important from the ads you select and encode.
 
-2)  Interpretive Digital History projects -- working in teams, or even
-    > in one big team, you will build a piece of digital history using
-    > the data and skills we have developed over the course of the
-    > semester. *Students can elect to identify a new digital tool and
-    > apply it to their historical problem.* **This will require you to
-    > pose a historical question and to answer it in digital form using
-    > digital tools/techniques.**
+2)  Interpretive Digital History projects -- working in teams, or even in one big team, you will build a piece of digital history using the data and skills we have developed over the course of the semester. *Students can elect to identify a new digital tool and apply it to their historical problem.* **This will require you to pose a historical question and to answer it in digital form using digital tools/techniques.**
 
 3)  Collective Work on introducing the site.
 
@@ -302,46 +293,22 @@ That website will house three types of student work.
 
 **Final Report (7.5%) --** Your Final Report will consist of two parts:
 
-1)  Critically evaluates the prototype website that we construct
-    > throughout the final weeks of the semester. Your essay will assign
-    > and defend a "grade" for our project, explaining your reasoning
-    > for your assessment of various elements of the project. If you had
-    > collaborators on your project, you will assess their work as well.
+1)  Critically evaluates the prototype website that we construct throughout the final weeks of the semester. Your essay will assign and defend a "grade" for our project, explaining your reasoning for your assessment of various elements of the project. If you had collaborators on your project, you will assess their work as well.
 
-2)  Write a short essay, or podcast, wherein you reflect on your growth
-    > as a (digital) historian. Identify your greatest strength and
-    > greatest weakness that you have discovered as a result of taking
-    > this course. Describe your greatest achievement and your most epic
-    > fail from the semester. **Detailed instructions will follow.**
+2)  Write a short essay, or podcast, wherein you reflect on your growth as a (digital) historian. Identify your greatest strength and greatest weakness that you have discovered as a result of taking this course. Describe your greatest achievement and your most epic fail from the semester. **Detailed instructions will follow.**
 
-3)  You may also take the time to make substantive suggestions on how to
-    > refine or improve course? Does the 2X80mins work? Would you prefer
-    > a different schedule? Would you prefer to do the technical
-    > tutorials as homework and to focus more class time on content? Did
-    > you have sufficient time to complete your digital creative work?
-    > What other questions should I be asking you to consider relative
-    > to the class?
+3)  You may also take the time to make substantive suggestions on how to refine or improve course? Does the 2X80mins work? Would you prefer a different schedule? Would you prefer to do the technical tutorials as homework and to focus more class time on content? Did you have sufficient time to complete your digital creative work? What other questions should I be asking you to consider relative to the class?
 
-> **Final Project (20%) --** The exact form of this element of the
-> assignment is largely up to students and or teams of students.
-> Students will be expected to produce digital history. This could take
-> the form of an extended podcast, an extended non-linear or "gamed"
-> history, a series of visualizations. Each of these will require a
-> narrative component, a write-up of your findings in a more traditional
-> "history paper" format.
->
-> **Project Presentation (7.5%) -** During the final week of the
-> semester (format TBD), each student group will present their final
-> digital project to the class and invited guests. This will also be an
-> opportunity to reflect on your experiences. This will likely take
-> place outside of class.
->
-> *More specific instructions will follow.*
+4) Reflect on the role of genAI in your work as a digital historian. Has our class altered your vision of or your approach to genAI?
+
+**Final Project (20%) --** The exact form of this element of the assignment is largely up to students and or teams of students. Students will be expected to produce digital history. This could take the form of an extended podcast, an extended non-linear or "gamed" history, a series of visualizations. Each of these will require a narrative component, a write-up of your findings in a more traditional "history paper" format.
+
+**Project Presentation (7.5%) -** During the final week of the semester (format TBD), each student group will present their final digital project to the class and invited guests. This will also be an opportunity to reflect on your experiences. This will likely take place outside of class.*More specific instructions will follow.*
 
 **Acknowledgements --** As a relative novice in Digital Humanities, one
 who wholeheartedly embraces William Cronon's notion of being a
 "lifelong" learner, this course is the product of work of others; my
-Digital Humanities Summer Institute instructors Ian Gregory, Jessica
+Digital Humanities Summer Institute instructors Anastasia Salter and John Murray, Ian Gregory, Jessica
 Otis and Jon Simpson, and Ryan Cordell; my European Summer University in
 Digital Humanities instructors Simone Rebora and Giovanni Vitale;
 Educational Technology Specialists at Denison who have put up with me
@@ -383,9 +350,10 @@ will not be tolerated in any form. The students and faculty of Denison
 University are committed to academic integrity and will not tolerate any
 violation of this principle.  Academic honesty, the cornerstone of
 teaching and learning, lays the foundation for lifelong integrity.
-![](media/image1.jpg){width="1.125in" height="1.65625in"}
 
-Academic dishonesty is, in most cases, intellectual theft. It includes,
+<div style="float: left; margin-right: 20px; margin-bottom: 10px;">
+<img src="media/integrity.jpg" alt="Academic Integrity" style="width: 150px; height: auto;">
+</div>Academic dishonesty is, in most cases, intellectual theft. It includes,
 but is not limited to, providing or receiving assistance in a manner not
 authorized by the instructor in the creation of work to be submitted for
 evaluation. This standard applies to all work ranging from daily
