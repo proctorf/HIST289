@@ -22,7 +22,7 @@ Your GitHub Pages site: `https://proctorf.github.io/HIST289/`
         frameborder="0" 
         scrolling="auto"
         title="Week 1 - Course Introduction">
-</iframe>
+</iframe>>
 ```
 
 ## Week 2 - Digital Humanities and Slavery

@@ -432,15 +432,15 @@ Introductions and Course Overview
 **What is History? Digital Humanities? Digital History? (H)**
 
 Readings:
-- John Arnold, [*History: A Very Short Introduction*](https://doi-org.denison.idm.oclc.org/10.1093/actrade/9780192853523.003.0001) (Oxford: Oxford University Press, 2000), 1-14.
-- Anne Burdick, "[From Humanities to Digital Humanities](https://denison.idm.oclc.org/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=513656&site=ehost-live&ebv=EB&ppid=pp_3)," in *Digital Humanities* (Cambridge, MA: MIT Press, 2012), 1-26.
-- Stephen Robertson, "The Differences between Digital Humanities and Digital History," in *Debates in the Digital Humanities 2016* available at: [http://dhdebates.gc.cuny.edu/debates/text/76](http://dhdebates.gc.cuny.edu/debates/text/76) (or [https://muse.jhu.edu/book/46383](https://muse.jhu.edu/book/46383) CH 25)
+- John Arnold, <a href="https://doi-org.denison.idm.oclc.org/10.1093/actrade/9780192853523.003.0001" target="_blank">*History: A Very Short Introduction*</a> (Oxford: Oxford University Press, 2000), 1-14.
+- Anne Burdick, "<a href="https://doi.org/10.7551/mitpress/9248.003.0003" target="_blank">From Humanities to Digital Humanities</a>," in *Digital Humanities* (Cambridge, MA: MIT Press, 2012), 1-26.
+- Stephen Robertson, "The Differences between Digital Humanities and Digital History," in *Debates in the Digital Humanities 2016* available at: <a href="http://dhdebates.gc.cuny.edu/debates/text/76" target="_blank">http://dhdebates.gc.cuny.edu/debates/text/76</a> (or <a href="https://muse.jhu.edu/book/46383" target="_blank">https://muse.jhu.edu/book/46383</a> CH 25)
 
 **Thursday, September 4**  
 **Slavery - how bad was it? (H)**
 
 Readings:
-- Orlando Patterson, [*Slavery and Social Death: A Comparative Study*](https://go.exlibris.link/2NYKmyyQ) (Cambridge: Harvard University Press, 1982), 1-14 (Chapter 1)
+- Orlando Patterson, <a href="https://go.exlibris.link/2NYKmyyQ" target="_blank">*Slavery and Social Death: A Comparative Study*</a> (Cambridge: Harvard University Press, 1982), 1-14 (Chapter 1)
 - Solomon Northup, *Twelve Years a Slave* Sections TBD
 
 ### Week 3 {#week3}
@@ -452,8 +452,8 @@ Readings:
 **Our Data? (H)**
 
 Readings:
-- Susan Schulten, "[The Cartography of Slavery and the Authority of Statistics](https://doi.org/10.1353/cwh.0.0141)," *Civil War History* 56:1 (2010): 5-32.
-- Ellen Gruber Garvey, "['facts and FACTS': Abolitionists Database Innovations](https://doi-org.denison.idm.oclc.org/10.7551/mitpress/9302.003.0007)," in *"Raw Data" is an Oxymoron*, Lisa Gitelman, ed. (Cambridge, Ma: MIT Press, 2013), 89-102.
+- Susan Schulten, "<a href="https://doi.org/10.1353/cwh.0.0141" target="_blank">The Cartography of Slavery and the Authority of Statistics</a>," *Civil War History* 56:1 (2010): 5-32.
+- Ellen Gruber Garvey, "'<a href="https://doi-org.denison.idm.oclc.org/10.7551/mitpress/9302.003.0007" target="_blank">facts and FACTS': Abolitionists Database Innovations</a>," in *"Raw Data" is an Oxymoron*, Lisa Gitelman, ed. (Cambridge, Ma: MIT Press, 2013), 89-102.
 
 ### Week 4 {#week4}
 
@@ -464,8 +464,8 @@ Readings:
 **Slavery and Freedom in Ohio (H)**
 
 Readings:
-- Matthew Salafia, "Fugitive Slaves and the Borderland" from [*Slavery's Borderland: Freedom and Bondage Along the Ohio River*](https://www-jstor-org.denison.idm.oclc.org/stable/j.ctt3fhvrx) (Univ. of Pennsylvania Press, 2013): 165-184
-- R.H.M Blackett, "Western Kentucky and Ohio" in [*The Captive's Quest for Freedom: Fugitive Slaves, the 1850 Fugitive Slave Law, and the Politics of Slavery*](https://doi-org.denison.idm.oclc.org/10.1017/9781108275439) (Cambridge Univ. Press, 2018): 222-268
+- Matthew Salafia, "Fugitive Slaves and the Borderland" from <a href="https://www-jstor-org.denison.idm.oclc.org/stable/j.ctt3fhvrx" target="_blank">*Slavery's Borderland: Freedom and Bondage Along the Ohio River*</a> (Univ. of Pennsylvania Press, 2013): 165-184
+- R.H.M Blackett, "Western Kentucky and Ohio" in <a href="https://doi-org.denison.idm.oclc.org/10.1017/9781108275439" target="_blank">*The Captive's Quest for Freedom: Fugitive Slaves, the 1850 Fugitive Slave Law, and the Politics of Slavery*</a> (Cambridge Univ. Press, 2018): 222-268
 
 ### Week 5 {#week5}
 
@@ -482,13 +482,13 @@ Readings:
 
 Readings:
 - Franklin and Schweninger, *Runaway Slaves*, 5 & 9 and Appendix 7 "Runaway Slave Database"
-- Stephanie Camp, [*Closer to Freedom*](https://heinonline.org/HOL/P?h=hein.peggy/csfd0001&i=51), Ch 2
+- Stephanie Camp, <a href="https://heinonline.org/HOL/P?h=hein.peggy/csfd0001&i=51" target="_blank">*Closer to Freedom*</a>, Ch 2
 
 **Thursday, October 2**  
 **QGIS**
 
 Reading:
-- Andrew Wiseman, "[When Maps Lie: Tips from a geographer on how to avoid being fooled](https://www.bloomberg.com/news/articles/2015-06-25/how-to-avoid-being-fooled-by-bad-maps?utm_source=website&utm_medium=share&utm_campaign=copy)," *Bloomberg.com*, 6/25/2015
+- Andrew Wiseman, "<a href="https://www.bloomberg.com/news/articles/2015-06-25/how-to-avoid-being-fooled-by-bad-maps?utm_source=website&utm_medium=share&utm_campaign=copy" target="_blank">When Maps Lie: Tips from a geographer on how to avoid being fooled</a>," *Bloomberg.com*, 6/25/2015
 
 ### Week 7 {#week7}
 
@@ -496,15 +496,15 @@ Reading:
 **Runaway Slaves in US, cont (H) / ARC StoryMaps**
 
 Readings:
-- Susanna Ashton and Jonathan D. Hepworth, "[Jackson Unchained: Reclaiming a Fugitive Landscape](http://theappendix.net/issues/2013/10/reclaiming-a-fugitive-landscape)," *The Appendix*, November 5, 2013
-- Amani Marshall, "'[They Will Endeavor to Pass for Free': Enslaved Runaways' Performances of Freedom in Antebellum South Carolina](https://doi.org/10.1080/01440391003711065)," *Slavery & Abolition* 31, no. 2 (2010): 161-180.
+- Susanna Ashton and Jonathan D. Hepworth, "<a href="http://theappendix.net/issues/2013/10/reclaiming-a-fugitive-landscape" target="_blank">Jackson Unchained: Reclaiming a Fugitive Landscape</a>," *The Appendix*, November 5, 2013
+- Amani Marshall, "'<a href="https://doi.org/10.1080/01440391003711065" target="_blank">They Will Endeavor to Pass for Free': Enslaved Runaways' Performances of Freedom in Antebellum South Carolina</a>," *Slavery & Abolition* 31, no. 2 (2010): 161-180.
 
 **Thursday, October 9**  
 **Cool DH Articles (H)**
 
 Readings:
-- Cameron Blevins, "[Space, Nation, and the Triumph of Region: A View of the World from Houston](https://www.jstor.org/stable/44285951)," *The Journal of American History* 101:1 (2014): 122-147.
-- Jesse Hoffnung-Garskof, "[Cuban Racial Politics in Nineteenth-Century New York: A Critical Approach](https://doi-org.denison.idm.oclc.org/10.1093/ahr/rhab007)," *American Historical Review* 126:1 (2021): 109-139.
+- Cameron Blevins, "<a href="https://www.jstor.org/stable/44285951" target="_blank">Space, Nation, and the Triumph of Region: A View of the World from Houston</a>," *The Journal of American History* 101:1 (2014): 122-147.
+- Jesse Hoffnung-Garskof, "<a href="https://doi-org.denison.idm.oclc.org/10.1093/ahr/rhab007" target="_blank">Cuban Racial Politics in Nineteenth-Century New York: A Critical Approach</a>," *American Historical Review* 126:1 (2021): 109-139.
 
 ### Week 8 {#week8}
 
@@ -512,9 +512,9 @@ Readings:
 **XML 1 - Annotation/Text Encoding**
 
 Readings:
-- "[How it feels to be colored me](https://genius.com/Zora-neale-hurston-how-it-feels-to-be-colored-me-annotated)," Zora Neale Hurston
-- [Obdurodon's "What is XML and Why should humanists care?"](http://dh.obdurodon.org/what-is-xml.xhtml)
-- [TEI and XML Markup for absolute beginners](https://fordhamgsdh.wordpress.com/2016/06/16/tei-and-xml-markup-for-absolute-beginners)
+- "<a href="https://genius.com/Zora-neale-hurston-how-it-feels-to-be-colored-me-annotated" target="_blank">How it feels to be colored me</a>," Zora Neale Hurston
+- <a href="http://dh.obdurodon.org/what-is-xml.xhtml" target="_blank">Obdurodon's "What is XML and Why should humanists care?"</a>
+- <a href="https://fordhamgsdh.wordpress.com/2016/06/16/tei-and-xml-markup-for-absolute-beginners" target="_blank">TEI and XML Markup for absolute beginners</a>
 
 **Thursday, October 16**  
 **FALL BREAK - NO CLASS**
@@ -533,16 +533,16 @@ Readings:
 **Runaway Slave Narratives**
 
 Readings:
-- Selections from [*The Long Walk to Freedom: Runaway Slave Narratives*](https://drive.google.com/file/d/1-2WiOYlB8uQekYhfINTRYp5v2US-IabV/view?usp=sharing)
-- [Narrative of Henry Bibb](https://drive.google.com/file/d/17RlEPzRwrRxeVNiAyS3mgbb0zQzYAasV/view?usp=sharing)
+- Selections from <a href="https://drive.google.com/file/d/1-2WiOYlB8uQekYhfINTRYp5v2US-IabV/view?usp=sharing" target="_blank">*The Long Walk to Freedom: Runaway Slave Narratives*</a>
+- <a href="https://drive.google.com/file/d/17RlEPzRwrRxeVNiAyS3mgbb0zQzYAasV/view?usp=sharing" target="_blank">Narrative of Henry Bibb</a>
 
 **Thursday, October 30**  
 **Distant Reading - Voyant Tools**
 
 Readings:
-- Ted Underwood, "[Seven ways humanists are using computers to understand texts](http://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-un)"
-- Robert K. Nelson, [Introduction](http://dsl.richmond.edu/dispatch/pages/intro) to *Mining the Dispatch*
-- Cameron Blevins, "[Topic Modeling Martha Ballard's Diary](http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/)," April 1, 2010
+- Ted Underwood, "<a href="http://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-un" target="_blank">Seven ways humanists are using computers to understand texts</a>"
+- Robert K. Nelson, <a href="http://dsl.richmond.edu/dispatch/pages/intro" target="_blank">Introduction</a> to *Mining the Dispatch*
+- Cameron Blevins, "<a href="http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/" target="_blank">Topic Modeling Martha Ballard's Diary</a>," April 1, 2010
 
 ### Week 11 {#week11}
 
@@ -553,9 +553,9 @@ Readings:
 **Digital Humanities and Data (H)**
 
 Readings:
-- Kim Gallon, "[Making the Case for the Black Digital Humanities](https://doi-org.denison.idm.oclc.org/10.5749/j.ctt1cn6thb.7)," *Debates in the Digital Humanities 2016*
+- Kim Gallon, "<a href="https://doi-org.denison.idm.oclc.org/10.5749/j.ctt1cn6thb.7" target="_blank">Making the Case for the Black Digital Humanities</a>," *Debates in the Digital Humanities 2016*
 - Jessica Marie Johnson, "Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads," *Social Text* 36:4 (2018): 57-79.
-- Catherine D'Ignazio and Lauren Klein, "CH 6 - The Numbers Don't Speak for Themselves," in [*Data Feminism*](https://dewey2.library.denison.edu/record=b8287792~S6) (Cambridge, MA: MIT University Press, 2020), 149-172.
+- Catherine D'Ignazio and Lauren Klein, "CH 6 - The Numbers Don't Speak for Themselves," in <a href="https://dewey2.library.denison.edu/record=b8287792~S6" target="_blank">*Data Feminism*</a> (Cambridge, MA: MIT University Press, 2020), 149-172.
 
 ### Week 12 {#week12}
 
@@ -563,16 +563,16 @@ Readings:
 **Visualizations / Tableau**
 
 Readings:
-- Nathan Yau, [*Data Points: Visualization That Means Something*](https://drive.google.com/file/d/1HNFFzp9un-9yW8LFRP0lfzoILzL-bX-B/view?usp=sharing), selected chapters
-- John Theibault, "[Visualizations and Historical Arguments](https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:8/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#8.1)"
+- Nathan Yau, <a href="https://drive.google.com/file/d/1HNFFzp9un-9yW8LFRP0lfzoILzL-bX-B/view?usp=sharing" target="_blank">*Data Points: Visualization That Means Something*</a>, selected chapters
+- John Theibault, "<a href="https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:8/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#8.1" target="_blank">Visualizations and Historical Arguments</a>"
 
 **Thursday, November 13**  
 **Visualizing Data II - Humanities Provocations**
 
 Readings:
-- Johanna Drucker, "[Graphic provocations: What do digital humanists want from visualization?](https://www.ucl.ac.uk/dh/events/SusanHockeyLecture/2016)" (watch the lecture)
-- Lauren F. Klein, "[Feminist data visualization; Or, the shape of history](http://lklein.com/2017/01/feminist-data-visualization-or-the-shape-of-history)"
-- Frank Jacobs, "[The Minard Map - Vital statistics of Napoleon's deadliest campaign](https://bigthink.com/strange-maps/229-vital-statistics-of-a-deadly-campaign-the-minard-map/)"
+- Johanna Drucker, "<a href="https://www.ucl.ac.uk/dh/events/SusanHockeyLecture/2016" target="_blank">Graphic provocations: What do digital humanists want from visualization?</a>" (watch the lecture)
+- Lauren F. Klein, "<a href="http://lklein.com/2017/01/feminist-data-visualization-or-the-shape-of-history" target="_blank">Feminist data visualization; Or, the shape of history</a>"
+- Frank Jacobs, "<a href="https://bigthink.com/strange-maps/229-vital-statistics-of-a-deadly-campaign-the-minard-map/" target="_blank">The Minard Map - Vital statistics of Napoleon's deadliest campaign</a>"
 
 ### Week 13 {#week13}
 
