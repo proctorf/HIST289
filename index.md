@@ -17,9 +17,10 @@ Office Hours: MWF 10:30-1130, Tues 9-10, and **by appointment**
 
 Office: 404 Fellows Hall
 
-Telephone: 587-5791
-
-Email: [proctorf@denison.edu](mailto:proctorf@denison.edu)
+Telephone: 587-5791deciphering the assignment, to discussing ideas, to developing an
+argument, to finalizing a draft.  Please visit the Writing Center
+Website at [http://www.denison.edu/writingctr/](http://www.denison.edu/writingctr/)
+for locations and hours.ail: [proctorf@denison.edu](mailto:proctorf@denison.edu)
 
 Preferred pronouns: he/him/his
 
@@ -90,25 +91,17 @@ and ads.
 
 4)  Digital Power and Justice
 
-    a.  Seek a deeper understanding of the systems of power that
-        > underwrote enslavement including those of race and gender
+    a.  Seek a deeper understanding of the systems of power that underwrote enslavement including those of race and gender
 
-    b.  Examine how the digital world can both perpetuate, and
-        > challenge, some of those systems of power in contemporary
-        > society
+    b.  Examine how the digital world can both perpetuate, and challenge, some of those systems of power in contemporary society
 
-    c.  Consider how best to actively avoid internalizing such systems
-        > of power in our own knowledge creation and digital
-        > presentation
+    c.  Consider how best to actively avoid internalizing such systems of power in our own knowledge creation and digital presentation
 
 5)  Failing Productively
 
-6)  Learn to apply technical knowledge about digital history to a
-    > substantive and complex historical subject
+6)  Learn to apply technical knowledge about digital history to a substantive and complex historical subject
 
-7)  Think explicitly and critically about how digital technologies
-    > change and potentially help the communication of historical
-    > narratives and interpretations.
+7)  Think explicitly and critically about how digital technologies change and potentially help the communication of historical narratives and interpretations.
 
 8)  Acquire experience managing a team-based digital humanities project
 
