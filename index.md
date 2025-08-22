@@ -17,10 +17,8 @@ Office Hours: MWF 10:30-1130, Tues 9-10, and **by appointment**
 
 Office: 404 Fellows Hall
 
-Telephone: 587-5791deciphering the assignment, to discussing ideas, to developing an
-argument, to finalizing a draft.  Please visit the Writing Center
-Website at [http://www.denison.edu/writingctr/](http://www.denison.edu/writingctr/)
-for locations and hours.ail: [proctorf@denison.edu](mailto:proctorf@denison.edu)
+Telephone: 587-5791  
+Email: [proctorf@denison.edu](mailto:proctorf@denison.edu)
 
 Preferred pronouns: he/him/his
 
@@ -386,8 +384,8 @@ writers one-on-one in all phases of the writing process, from
 deciphering the assignment, to discussing ideas, to developing an
 argument, to finalizing a draft.  Please visit the Writing Center
 Website at
-[[http://www.denison.edu/writingctr/]{.underline}](http://www.denison.edu/writingctr/)
-for locations and hours.
+[http://www.denison.edu/writingctr/](http://www.denison.edu/writingctr/) for locations and hours.
+
 
 **L2 or Multilingual Support:** In addition to the
 academic support services available to all Denison students, students
@@ -422,9 +420,11 @@ Introductions and Course Overview
 
 - **Google Drive Setup**
 - [Google Drive Installation](https://docs.google.com/document/d/1cQHefWqXcXQq9bbJGlev4kIz2uE7f6xvC0s79sdC3sI/edit?usp=sharing)
+
+- Installations 
+
 - **Timeline_JS Introduction**
 
-***TESTING***
 
 ### Week 2 {#week2}
 
@@ -441,8 +441,7 @@ Readings:
 
 Readings:
 - Orlando Patterson, [*Slavery and Social Death: A Comparative Study*](https://go.exlibris.link/2NYKmyyQ) (Cambridge: Harvard University Press, 1982), 1-14 (Chapter 1)
-- Thelma Jennings, "'[Us Colored Women Had to Go Through A Plenty': Sexual Exploitation and African American Women](http://0-gateway.proquest.com.dewey2.library.denison.edu/openurl?url_ver=Z39.88-2004&res_dat=xri:pao-us:&rft_dat=xri:pao:article:h338-1990-001-03-000003)," *Journal of Women's History* (1990): 45-74.
-- Walter Johnson, [*Soul by Soul: Life Inside the Antebellum Slave Market*](https://drive.google.com/file/d/1mFs5Eul_wiBaU2L-zb4Rk_bQueR96Gsl/view?usp=sharing) (Cambridge: Harvard Univ Press, 1999), pg 19-24 & 117-134.
+- Solomon Northup, *Twelve Years a Slave* Sections TBD
 
 ### Week 3 {#week3}
 
