@@ -505,32 +505,33 @@ Readings:
 - Stephanie Camp, <a href="https://heinonline.org/HOL/P?h=hein.peggy/csfd0001&i=51" target="_blank">*Closer to Freedom*</a>, Ch 2
 
 **Thursday, October 2**  
+**Interpretations of Runaways**
+
+Readings:
+- Antonio Bly, <a href="https://doi.org/10.1080/0144039X.2020.1801069" target="_blank">"'Indubitable Signs': Reading Silence as Text in New England Runaway Slave Advertisements,"</a> *Slavery & Abolition* 42:2 (2021): 240-268.
+- I.M Nick, <a href="https://ans-names.pitt.edu/ans/article/view/2436" target="_blank">"In the Name of Freedom: A Corpus Linguistic Analysis of Personal Names Recorded in Fugitive Slaver Advertisements Published in New York and New Jersey 18th-Century Newspapers,"</a> *Names* 70:3(2022): 12-23.
+
+### Week 7 {#week7}
+
+**Tuesday, October 7**  
 **Runaway Slaves in US, cont (H) / ARC StoryMaps**
 
 Readings:
 - Susanna Ashton and Jonathan D. Hepworth, "<a href="http://theappendix.net/issues/2013/10/reclaiming-a-fugitive-landscape" target="_blank">Jackson Unchained: Reclaiming a Fugitive Landscape</a>," *The Appendix*, November 5, 2013
 - Amani Marshall, "'<a href="https://doi.org/10.1080/01440391003711065" target="_blank">They Will Endeavor to Pass for Free': Enslaved Runaways' Performances of Freedom in Antebellum South Carolina</a>," *Slavery & Abolition* 31, no. 2 (2010): 161-180.
 
-### Week 7 {#week7}
-
-**Tuesday, October 7**  
+**Thursday, October 9**  
 **Advanced Mapping / QGIS**
 
 **Website Review** [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/)
 
-**Thursday, October 9**  
+### Week 8 {#week8}
+
+**Tuesday, October 14**  
 **Advanced Mapping cont. / QGIS**
 
 Reading:
 - Susan Schulten, "<a href="https://doi.org/10.1353/cwh.0.0141" target="_blank">The Cartography of Slavery and the Authority of Statistics</a>," *Civil War History* 56:1 (2010): 5-32.
-
-### Week 8 {#week8}
-
-**Tuesday, October 14**  
-**Cool DH Reading / Mapping with AI**
-
-Readings:
-- Cameron Blevins, "<a href="https://www.jstor.org/stable/44285951" target="_blank">Space, Nation, and the Triumph of Region: A View of the World from Houston</a>," *The Journal of American History* 101:1 (2014): 122-147.
 
 
 
@@ -540,6 +541,12 @@ Readings:
 ### Week 9 {#week9}
 
 **Tuesday, October 21**  
+**Cool DH Reading / Mapping with AI**
+
+Readings:
+- Cameron Blevins, "<a href="https://www.jstor.org/stable/44285951" target="_blank">Space, Nation, and the Triumph of Region: A View of the World from Houston</a>," *The Journal of American History* 101:1 (2014): 122-147.
+
+**Thursday, October 23**  
 **Runaway Narratives / Distant Reading**
 
 ***RIGHT NOW YOU'VE REMOVED ALL THE DISTANT READING READINGS - STRIBLING, READING THE DISPATCH, UNDERWOOD ARTICLE FROM SALTER*** - Robert K. Nelson, <a href="http://dsl.richmond.edu/dispatch/pages/intro" target="_blank">Introduction</a> to *Mining the Dispatch*
@@ -549,27 +556,20 @@ Readings:
 
 **Tutorial - Distant Reading with Voyant and nocodefunction.com**
 
-**Thursday, October 23**  
+### Week 10 {#week10}
+
+**Tuesday, October 28**  
 **Runaway Slave Narratives cont. / Distant Reading with LLMs**
 
 - <a href="https://drive.google.com/file/d/17RlEPzRwrRxeVNiAyS3mgbb0zQzYAasV/view?usp=sharing" target="_blank">Narrative of Henry Bibb</a>
 
-**Tutorial** - 
+**Tutorial** -  
 [Reading Across Texts](Reading_Across_Texts.md)
-
-### Week 10 {#week10}
-
-**Tuesday, October 28**  
-**Distant Reading with AI Code Assistant**
 
 
 
 **Thursday, October 30**  
-**Interpretations of Runaways**
-
-Readings:
-- Antonio Bly, <a href="https://doi.org/10.1080/0144039X.2020.1801069" target="_blank">"'Indubitable Signs': Reading Silence as Text in New England Runaway Slave Advertisements,"</a> *Slavery & Abolition* 42:2 (2021): 240-268.
-- I.M Nick, <a href="https://ans-names.pitt.edu/ans/article/view/2436" target="_blank">"In the Name of Freedom: A Corpus Linguistic Analysis of Personal Names Recorded in Fugitive Slaver Advertisements Published in New York and New Jersey 18th-Century Newspapers,"</a> *Names* 70:3(2022): 12-23.
+**Distant Reading with AI Code Assistant**
 
 
 ### Week 11 {#week11}
