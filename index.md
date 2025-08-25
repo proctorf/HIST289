@@ -446,34 +446,49 @@ Readings:
 ### Week 3 {#week3}
 
 **Tuesday, September 9**  
-**QGIS Lab**
 
+**Website Review:** 
+[Medieval Murder Map](https://medievalmurdermap.co.uk/)
+
+
+
+Reading:
+- Emily Johnson and Anastasia Salter, "<a href="https://doi-org.denison.idm.oclc.org/10.3998/mpub.14510509" target="_blank">Map</a>," *Critical Making in the Age of AI* (Amherst College Press, 2025)
+
+**Mapping Lab** [Mapping Lab Assignment](MappingOne.md)
+
+
+ 
 **Thursday, September 11**  
 **Our Data? (H)**
 
 Readings:
-- Susan Schulten, "<a href="https://doi.org/10.1353/cwh.0.0141" target="_blank">The Cartography of Slavery and the Authority of Statistics</a>," *Civil War History* 56:1 (2010): 5-32.
+
 - Ellen Gruber Garvey, "'<a href="https://doi-org.denison.idm.oclc.org/10.7551/mitpress/9302.003.0007" target="_blank">facts and FACTS': Abolitionists Database Innovations</a>," in *"Raw Data" is an Oxymoron*, Lisa Gitelman, ed. (Cambridge, Ma: MIT Press, 2013), 89-102.
 
 ### Week 4 {#week4}
 
 **Tuesday, September 16**  
-**QGIS Lab**
+**Slavery and Freedom in Ohio (H) / XML**
+
+Reading:
+- Matthew Salafia, "Fugitive Slaves and the Borderland" from <a href="https://www-jstor-org.denison.idm.oclc.org/stable/j.ctt3fhvrx" target="_blank">*Slavery's Borderland: Freedom and Bondage Along the Ohio River*</a> (Univ. of Pennsylvania Press, 2013): 165-184
 
 **Thursday, September 18**  
-**Slavery and Freedom in Ohio (H)**
+**Slavery and Freedom in Ohio cont. / XML**
 
-Readings:
-- Matthew Salafia, "Fugitive Slaves and the Borderland" from <a href="https://www-jstor-org.denison.idm.oclc.org/stable/j.ctt3fhvrx" target="_blank">*Slavery's Borderland: Freedom and Bondage Along the Ohio River*</a> (Univ. of Pennsylvania Press, 2013): 165-184
+Reading:
 - R.H.M Blackett, "Western Kentucky and Ohio" in <a href="https://doi-org.denison.idm.oclc.org/10.1017/9781108275439" target="_blank">*The Captive's Quest for Freedom: Fugitive Slaves, the 1850 Fugitive Slave Law, and the Politics of Slavery*</a> (Cambridge Univ. Press, 2018): 222-268
 
 ### Week 5 {#week5}
 
 **Tuesday, September 23**  
-**Website Assessment (homework)**
+
+**Website Review:** 
+[Freedom on the Move](https://freedomonthemove.org/)
 
 **Thursday, September 25**  
-**Database (SpreadSheet) Construction**
+**XML/PEI (Proctor Encoding Initiative)**
 
 ### Week 6 {#week6}
 
@@ -485,22 +500,27 @@ Readings:
 - Stephanie Camp, <a href="https://heinonline.org/HOL/P?h=hein.peggy/csfd0001&i=51" target="_blank">*Closer to Freedom*</a>, Ch 2
 
 **Thursday, October 2**  
-**QGIS**
-
-Reading:
-- Andrew Wiseman, "<a href="https://www.bloomberg.com/news/articles/2015-06-25/how-to-avoid-being-fooled-by-bad-maps?utm_source=website&utm_medium=share&utm_campaign=copy" target="_blank">When Maps Lie: Tips from a geographer on how to avoid being fooled</a>," *Bloomberg.com*, 6/25/2015
-
-### Week 7 {#week7}
-
-**Tuesday, October 7**  
 **Runaway Slaves in US, cont (H) / ARC StoryMaps**
 
 Readings:
 - Susanna Ashton and Jonathan D. Hepworth, "<a href="http://theappendix.net/issues/2013/10/reclaiming-a-fugitive-landscape" target="_blank">Jackson Unchained: Reclaiming a Fugitive Landscape</a>," *The Appendix*, November 5, 2013
 - Amani Marshall, "'<a href="https://doi.org/10.1080/01440391003711065" target="_blank">They Will Endeavor to Pass for Free': Enslaved Runaways' Performances of Freedom in Antebellum South Carolina</a>," *Slavery & Abolition* 31, no. 2 (2010): 161-180.
 
+
+
+
+### Week 7 {#week7}
+
+**Tuesday, October 7**  
+**Advanced Mapping / QGIS**
+
+**Website Review** [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/)
+
 **Thursday, October 9**  
-**Cool DH Articles (H)**
+**Advanced Mapping cont. / QGIS**
+
+Reading:
+- Susan Schulten, "<a href="https://doi.org/10.1353/cwh.0.0141" target="_blank">The Cartography of Slavery and the Authority of Statistics</a>," *Civil War History* 56:1 (2010): 5-32.
 
 Readings:
 - Cameron Blevins, "<a href="https://www.jstor.org/stable/44285951" target="_blank">Space, Nation, and the Triumph of Region: A View of the World from Houston</a>," *The Journal of American History* 101:1 (2014): 122-147.
