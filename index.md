@@ -472,7 +472,12 @@ Readings:
 **Slavery and Freedom in Ohio (H) / XML**
 
 Reading:
-- Matthew Salafia, "Fugitive Slaves and the Borderland" from <a href="https://www-jstor-org.denison.idm.oclc.org/stable/j.ctt3fhvrx" target="_blank">*Slavery's Borderland: Freedom and Bondage Along the Ohio River*</a> (Univ. of Pennsylvania Press, 2013): 165-184
+- Matthew Salafia, "Fugitive Slaves and the Borderland" from <a href="https://www-jstor-org.denison.idm.oclc.org/stable/j.ctt3fhvrx" target="_blank">*Slavery's Borderland: Freedom and Bondage Along the Ohio River*</a> (Univ. of Pennsylvania Press, 2013): 165-184.
+
+XML Readings:
+
+- <a href="http://dh.obdurodon.org/what-is-xml.xhtml" target="_blank">Obdurodon's "What is XML and Why should humanists care?"</a>
+- <a href="https://fordhamgsdh.wordpress.com/2016/06/16/tei-and-xml-markup-for-absolute-beginners" target="_blank">TEI and XML Markup for absolute beginners</a>
 
 **Thursday, September 18**  
 **Slavery and Freedom in Ohio cont. / XML**
@@ -506,9 +511,6 @@ Readings:
 - Susanna Ashton and Jonathan D. Hepworth, "<a href="http://theappendix.net/issues/2013/10/reclaiming-a-fugitive-landscape" target="_blank">Jackson Unchained: Reclaiming a Fugitive Landscape</a>," *The Appendix*, November 5, 2013
 - Amani Marshall, "'<a href="https://doi.org/10.1080/01440391003711065" target="_blank">They Will Endeavor to Pass for Free': Enslaved Runaways' Performances of Freedom in Antebellum South Carolina</a>," *Slavery & Abolition* 31, no. 2 (2010): 161-180.
 
-
-
-
 ### Week 7 {#week7}
 
 **Tuesday, October 7**  
@@ -522,19 +524,15 @@ Readings:
 Reading:
 - Susan Schulten, "<a href="https://doi.org/10.1353/cwh.0.0141" target="_blank">The Cartography of Slavery and the Authority of Statistics</a>," *Civil War History* 56:1 (2010): 5-32.
 
-Readings:
-- Cameron Blevins, "<a href="https://www.jstor.org/stable/44285951" target="_blank">Space, Nation, and the Triumph of Region: A View of the World from Houston</a>," *The Journal of American History* 101:1 (2014): 122-147.
-- Jesse Hoffnung-Garskof, "<a href="https://doi-org.denison.idm.oclc.org/10.1093/ahr/rhab007" target="_blank">Cuban Racial Politics in Nineteenth-Century New York: A Critical Approach</a>," *American Historical Review* 126:1 (2021): 109-139.
-
 ### Week 8 {#week8}
 
 **Tuesday, October 14**  
-**XML 1 - Annotation/Text Encoding**
+**Cool DH Reading / Mapping with AI**
 
 Readings:
-- "<a href="https://genius.com/Zora-neale-hurston-how-it-feels-to-be-colored-me-annotated" target="_blank">How it feels to be colored me</a>," Zora Neale Hurston
-- <a href="http://dh.obdurodon.org/what-is-xml.xhtml" target="_blank">Obdurodon's "What is XML and Why should humanists care?"</a>
-- <a href="https://fordhamgsdh.wordpress.com/2016/06/16/tei-and-xml-markup-for-absolute-beginners" target="_blank">TEI and XML Markup for absolute beginners</a>
+- Cameron Blevins, "<a href="https://www.jstor.org/stable/44285951" target="_blank">Space, Nation, and the Triumph of Region: A View of the World from Houston</a>," *The Journal of American History* 101:1 (2014): 122-147.
+
+
 
 **Thursday, October 16**  
 **FALL BREAK - NO CLASS**
@@ -542,34 +540,41 @@ Readings:
 ### Week 9 {#week9}
 
 **Tuesday, October 21**  
-**XML II Tutorial / Website Assessment**
+**Runaway Narratives / Distant Reading**
+
+***RIGHT NOW YOU'VE REMOVED ALL THE DISTANT READING READINGS - STRIBLING, READING THE DISPATCH, UNDERWOOD ARTICLE FROM SALTER*** - Robert K. Nelson, <a href="http://dsl.richmond.edu/dispatch/pages/intro" target="_blank">Introduction</a> to *Mining the Dispatch*
+
+Readings:
+- Selections from <a href="https://drive.google.com/file/d/1-2WiOYlB8uQekYhfINTRYp5v2US-IabV/view?usp=sharing" target="_blank">*The Long Walk to Freedom: Runaway Slave Narratives*</a>
+
+**Tutorial - Distant Reading with Voyant and nocodefunction.com**
 
 **Thursday, October 23**  
-**XML/PEI (Proctor's Encoding Initiative)**
+**Runaway Slave Narratives cont. / Distant Reading with LLMs**
+
+- <a href="https://drive.google.com/file/d/17RlEPzRwrRxeVNiAyS3mgbb0zQzYAasV/view?usp=sharing" target="_blank">Narrative of Henry Bibb</a>
+
+**Tutorial** - 
+[Reading Across Texts](Reading_Across_Texts.md)
 
 ### Week 10 {#week10}
 
 **Tuesday, October 28**  
-**Runaway Slave Narratives**
+**Distant Reading with AI Code Assistant**
 
-Readings:
-- Selections from <a href="https://drive.google.com/file/d/1-2WiOYlB8uQekYhfINTRYp5v2US-IabV/view?usp=sharing" target="_blank">*The Long Walk to Freedom: Runaway Slave Narratives*</a>
-- <a href="https://drive.google.com/file/d/17RlEPzRwrRxeVNiAyS3mgbb0zQzYAasV/view?usp=sharing" target="_blank">Narrative of Henry Bibb</a>
+
 
 **Thursday, October 30**  
-**Distant Reading - Voyant Tools**
+**Interpretations of Runaways**
 
 Readings:
-- Ted Underwood, "<a href="http://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-un" target="_blank">Seven ways humanists are using computers to understand texts</a>"
-- Robert K. Nelson, <a href="http://dsl.richmond.edu/dispatch/pages/intro" target="_blank">Introduction</a> to *Mining the Dispatch*
-- Cameron Blevins, "<a href="http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/" target="_blank">Topic Modeling Martha Ballard's Diary</a>," April 1, 2010
+- Antonio Bly, <a href="https://doi.org/10.1080/0144039X.2020.1801069" target="_blank">"'Indubitable Signs': Reading Silence as Text in New England Runaway Slave Advertisements,"</a> *Slavery & Abolition* 42:2 (2021): 240-268.
+- I.M Nick, <a href="https://ans-names.pitt.edu/ans/article/view/2436" target="_blank">"In the Name of Freedom: A Corpus Linguistic Analysis of Personal Names Recorded in Fugitive Slaver Advertisements Published in New York and New Jersey 18th-Century Newspapers,"</a> *Names* 70:3(2022): 12-23.
+
 
 ### Week 11 {#week11}
 
 **Tuesday, November 4**  
-**Distant Reading II - Antconc or Mallet / AI?**
-
-**Thursday, November 6**  
 **Digital Humanities and Data (H)**
 
 Readings:
@@ -577,13 +582,18 @@ Readings:
 - Jessica Marie Johnson, "Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads," *Social Text* 36:4 (2018): 57-79.
 - Catherine D'Ignazio and Lauren Klein, "CH 6 - The Numbers Don't Speak for Themselves," in <a href="https://dewey2.library.denison.edu/record=b8287792~S6" target="_blank">*Data Feminism*</a> (Cambridge, MA: MIT University Press, 2020), 149-172.
 
-### Week 12 {#week12}
-
-**Tuesday, November 11**  
-**Visualizations / Tableau**
+**Thursday, November 6**  
+**Visualizations**
 
 Readings:
 - Nathan Yau, <a href="https://drive.google.com/file/d/1HNFFzp9un-9yW8LFRP0lfzoILzL-bX-B/view?usp=sharing" target="_blank">*Data Points: Visualization That Means Something*</a>, selected chapters
+
+### Week 12 {#week12}
+
+**Tuesday, November 11**  
+**Digital History - A Critique**
+Readings
+- Jesse Hoffnung-Garskof, "<a href="https://doi-org.denison.idm.oclc.org/10.1093/ahr/rhab007" target="_blank">Cuban Racial Politics in Nineteenth-Century New York: A Critical Approach</a>," *American Historical Review* 126:1 (2021): 109-139.
 - John Theibault, "<a href="https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:8/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#8.1" target="_blank">Visualizations and Historical Arguments</a>"
 
 **Thursday, November 13**  
@@ -591,8 +601,11 @@ Readings:
 
 Readings:
 - Johanna Drucker, "<a href="https://www.ucl.ac.uk/dh/events/SusanHockeyLecture/2016" target="_blank">Graphic provocations: What do digital humanists want from visualization?</a>" (watch the lecture)
-- Lauren F. Klein, "<a href="http://lklein.com/2017/01/feminist-data-visualization-or-the-shape-of-history" target="_blank">Feminist data visualization; Or, the shape of history</a>"
-- Frank Jacobs, "<a href="https://bigthink.com/strange-maps/229-vital-statistics-of-a-deadly-campaign-the-minard-map/" target="_blank">The Minard Map - Vital statistics of Napoleon's deadliest campaign</a>"
+- Lauren Klein, "<a href="https://hdsr.mitpress.mit.edu/pub/oraonikr/release/3" target="_blank">What Data Visualization Reveals: Elizabeth Palmer Peabody and the Work of Knowledge Production</a>," *Harvard Data Science Review* 4:2 (2022): 1-34.
+
+**Website Review** [(Un)Silencing Slavery](Unsilencing-slavery.org)
+
+
 
 ### Week 13 {#week13}
 
@@ -623,4 +636,4 @@ Readings:
 
 Course Evaluations
 
-**Final Project Due: Thursday, December 11, 2025 @ 4pm**
+**Final Project Due: Sunday, December 14, 2025 @ 8:30pm**
