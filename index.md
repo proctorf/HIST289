@@ -505,6 +505,8 @@ Reading:
 
 **Website Review:** 
 [Freedom on the Move](https://freedomonthemove.org/)
+- Copy, rename, and move this [form](https://docs.google.com/document/d/1iJ76JzlcSR5aH3mpuYpapCx6d-tvRedAPWAe6qwE_Mk/edit?usp=sharing) to complete the assignment. Paste the associated url into Canvas.
+
 
 **Thursday, September 25**  
 **XML/PEI (Proctor Encoding Initiative)**
@@ -538,6 +540,7 @@ Readings:
 **Advanced Mapping / QGIS**
 
 **Website Review** [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/)
+- Copy, rename, and move this [form](https://docs.google.com/document/d/1iJ76JzlcSR5aH3mpuYpapCx6d-tvRedAPWAe6qwE_Mk/edit?usp=sharing) to complete the assignment. Paste the associated url into Canvas.
 
 ### Week 8 {#week8}
 
@@ -546,8 +549,6 @@ Readings:
 
 Reading:
 - Susan Schulten, "<a href="https://doi.org/10.1353/cwh.0.0141" target="_blank">The Cartography of Slavery and the Authority of Statistics</a>," *Civil War History* 56:1 (2010): 5-32.
-
-
 
 **Thursday, October 16**  
 **FALL BREAK - NO CLASS**
@@ -561,21 +562,27 @@ Readings:
 - Cameron Blevins, "<a href="https://www.jstor.org/stable/44285951" target="_blank">Space, Nation, and the Triumph of Region: A View of the World from Houston</a>," *The Journal of American History* 101:1 (2014): 122-147.
 
 **Thursday, October 23**  
-**Runaway Narratives / Distant Reading**
+**Distant Reading Primer**
 
-***RIGHT NOW YOU'VE REMOVED ALL THE DISTANT READING READINGS - STRIBLING, READING THE DISPATCH, UNDERWOOD ARTICLE FROM SALTER*** - Robert K. Nelson, <a href="http://dsl.richmond.edu/dispatch/pages/intro" target="_blank">Introduction</a> to *Mining the Dispatch*
+- Johanna Drucker, "Data Mining and Text Analysis," in *The Digital Humanities Coursebook* (Routledge, 2021),110-120.
 
-Readings:
-- Selections from <a href="https://drive.google.com/file/d/1-2WiOYlB8uQekYhfINTRYp5v2US-IabV/view?usp=sharing" target="_blank">*The Long Walk to Freedom: Runaway Slave Narratives*</a>
+- Cameron Blevins,<a href="http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/" target="_blank">“Topic Modeling Martha Ballard’s Diary,”</a> April 1, 2010
+
+- Eleanor Stribling, <a href="https://medium.com/agatha-codes/a-bossy-sort-of-voice-3c3a18de3093" target="_blank">“A Bossy Sort of Voice: Quantifying gender bias in “Harry Potter” with Python and NLTK”</a> *Medium* May 4, 2018 (don't worry about the code)
+
+**Website Review** - <a href="https://dsl.richmond.edu/dispatch/introduction" target="_blank">"Mining the Dispatch"</a> to 
+
+- Copy, rename, and move this [form](https://docs.google.com/document/d/1iJ76JzlcSR5aH3mpuYpapCx6d-tvRedAPWAe6qwE_Mk/edit?usp=sharing) to complete the assignment. Paste the associated url into Canvas.
 
 **Tutorial - Distant Reading with Voyant and nocodefunction.com**
 
 ### Week 10 {#week10}
 
 **Tuesday, October 28**  
-**Runaway Slave Narratives cont. / Distant Reading with LLMs**
+**Runaway Slave Narratives / Distant Reading with LLMs**
 
-- <a href="https://drive.google.com/file/d/17RlEPzRwrRxeVNiAyS3mgbb0zQzYAasV/view?usp=sharing" target="_blank">Narrative of Henry Bibb</a>
+Readings:
+- Selections from <a href="https://drive.google.com/file/d/1-2WiOYlB8uQekYhfINTRYp5v2US-IabV/view?usp=sharing" target="_blank">“From Narrative of the Life of Frederick Douglass, An American Slave. Written by Himself,” “From Slavery Days in Old Kentucky. A True Story of a Father Who Sold His Wife and Four Children. By One of the Children,” and “From Running a Thousand Miles for Freedom; or, the Escape of William and Ellen Craft from Slavery,”</a> in *The Long Walk to Freedom: Runaway Slave Narratives*, Devon W. Carbado and Donald Weise, eds., (Beacon Press, 2012): 39-66, 69-88, and 205-228.
 
 **Tutorial** -  
 [Reading Across Texts](Reading_Across_Texts.md)
@@ -584,6 +591,9 @@ Readings:
 
 **Thursday, October 30**  
 **Distant Reading with AI Code Assistant**
+- <a href="https://drive.google.com/file/d/17RlEPzRwrRxeVNiAyS3mgbb0zQzYAasV/view?usp=sharing" target="_blank">Narrative of Henry Bibb</a>
+
+**Tutorial**
 
 
 ### Week 11 {#week11}
@@ -598,7 +608,7 @@ Readings:
 
 
 **Thursday, November 6**  
-**Visualizations**
+**Visualizations / Tableau**
 
 Readings:
 - Nathan Yau, <a href="https://drive.google.com/file/d/1HNFFzp9un-9yW8LFRP0lfzoILzL-bX-B/view?usp=sharing" target="_blank">*Data Points: Visualization That Means Something*</a>, selected chapters
@@ -606,21 +616,21 @@ Readings:
 ### Week 12 {#week12}
 
 **Tuesday, November 11**  
-**Digital History - A Critique**
+**Digital History - A Critique** **/** **Tableau**
+
 Readings
 - Jesse Hoffnung-Garskof, "<a href="https://doi-org.denison.idm.oclc.org/10.1093/ahr/rhab007" target="_blank">Cuban Racial Politics in Nineteenth-Century New York: A Critical Approach</a>," *American Historical Review* 126:1 (2021): 109-139.
 - John Theibault, "<a href="https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:8/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#8.1" target="_blank">Visualizations and Historical Arguments</a>"
 
 **Thursday, November 13**  
-**Visualizing Data II - Humanities Provocations**
+**Visualizing Data II - Humanities Provocations / Final Projects**
 
 Readings:
 - Johanna Drucker, "<a href="https://www.ucl.ac.uk/dh/events/SusanHockeyLecture/2016" target="_blank">Graphic provocations: What do digital humanists want from visualization?</a>" (watch the lecture)
 - Lauren Klein, "<a href="https://hdsr.mitpress.mit.edu/pub/oraonikr/release/3" target="_blank">What Data Visualization Reveals: Elizabeth Palmer Peabody and the Work of Knowledge Production</a>," *Harvard Data Science Review* 4:2 (2022): 1-34.
 
-**Website Review** [(Un)Silencing Slavery](Unsilencing-slavery.org)
-
-
+**Website Review** <a href="https://Unsilencing-slavery.org" target="_blank">(Un)Silencing Slavery</a>
+- Copy, rename, and move this [form](https://docs.google.com/document/d/1iJ76JzlcSR5aH3mpuYpapCx6d-tvRedAPWAe6qwE_Mk/edit?usp=sharing) to complete the assignment. Paste the associated url into Canvas.
 
 ### Week 13 {#week13}
 
@@ -644,7 +654,7 @@ Readings:
 ### Week 15 {#week15}
 
 **Tuesday, December 9**  
-**Final Project Workday**
+**Presentations and/or Final Project Workday**
 
 **Thursday, December 11**  
 **Presentations**
