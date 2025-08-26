@@ -6,7 +6,7 @@ title: Fugative Slaves in Ohio
 
 **Fall 2025**
 
-![Runaway slave advertisement](media/runaway.jpg)
+<img src="media/runaway.jpg" alt="Runaway slave advertisement" style="width: 300px; height: auto; max-width: 100%;">
 
 **Professor Frank "Trey" Proctor III**
 
