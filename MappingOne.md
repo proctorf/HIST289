@@ -1,6 +1,6 @@
 ## The Interactive Map (Lab Two)
 
-The ideas of \"place\" and \"community,\" along with what it means to be
+The ideas of \"place\" and \"community,\" along with what it means **Attribution**: This assignment is adapted from materials originally created by Emily Johnson and Anastasia Salter as a companion to their book *Critical Making in the Age of AI*. Original content available at: [https://anastasiasalter.net/CritMakingAgeOfAI/UndergradCourseSample/labtwo.html](https://anastasiasalter.net/CritMakingAgeOfAI/UndergradCourseSample/labtwo.html). Used with permission and modified for HIST 289 at Denison University.be
 a member of a community, being from a place, or occupying a
 place\--physically or virtually\--is a very \"humanities\" question.
 
@@ -99,7 +99,9 @@ browser, but I think the download may be rather large.
 -   [How to find a random Google Earth
     location](https://www.assortedstuff.com/stuff/google-earth-im-feeling-lucky/)
 
-### ESRI StoryMaps
+---
+
+**Attribution**: This assignment is adapted from materials originally created by Emily Johnson and Anastasia Salter as a companion to their book *Critical Making in the Age of AI*. Original content available at: [https://anastasiasalter.net/CritMakingAgeOfAI/UndergradCourseSample/labtwo.html](https://anastasiasalter.net/CritMakingAgeOfAI/UndergradCourseSample/labtwo.html). Used with permission and modified for HIST 289 at Denison University.
 
 **ESRI StoryMaps: <https://ucfonline.maps.arcgis.com/home/index.html>**
 
