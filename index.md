@@ -421,7 +421,7 @@ Introductions and Course Overview
 - **Google Drive Setup**
 - [Google Drive Installation](https://docs.google.com/document/d/1cQHefWqXcXQq9bbJGlev4kIz2uE7f6xvC0s79sdC3sI/edit?usp=sharing)
 
-- Installations 
+- [Software Installations](installations.md)
 
 - **Timeline_JS Introduction**
 
@@ -440,7 +440,7 @@ Readings:
 **Slavery - how bad was it? (H)**
 
 Readings:
-- Orlando Patterson, <a href="https://go.exlibris.link/2NYKmyyQ" target="_blank">*Slavery and Social Death: A Comparative Study*</a> (Cambridge: Harvard University Press, 1982), 1-14 (Chapter 1)
+
 - Solomon Northup, *Twelve Years a Slave* Sections TBD
 
 ### Week 3 {#week3}
@@ -578,9 +578,10 @@ Readings:
 **Digital Humanities and Data (H)**
 
 Readings:
-- Kim Gallon, "<a href="https://doi-org.denison.idm.oclc.org/10.5749/j.ctt1cn6thb.7" target="_blank">Making the Case for the Black Digital Humanities</a>," *Debates in the Digital Humanities 2016*
-- Jessica Marie Johnson, "Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads," *Social Text* 36:4 (2018): 57-79.
+
 - Catherine D'Ignazio and Lauren Klein, "CH 6 - The Numbers Don't Speak for Themselves," in <a href="https://dewey2.library.denison.edu/record=b8287792~S6" target="_blank">*Data Feminism*</a> (Cambridge, MA: MIT University Press, 2020), 149-172.
+- Jessica Marie Johnson, "Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads," *Social Text* 36:4 (2018): 57-79.
+
 
 **Thursday, November 6**  
 **Visualizations**
