@@ -156,7 +156,7 @@ syllabus.*
 
 ## Assignments and Grades
 
-**Weekly Work** **(22.5%)** --
+**Weekly Work (10%)** --
 
 Throughout the semester we will complete various homework assignments
 that will have a series of assignments with **technical**,
@@ -164,35 +164,28 @@ that will have a series of assignments with **technical**,
 dimensions aimed at developing the dual habits of thinking
 computationally and historically at the same time.
 
-> **Technical** -- The course is designed to be hands on, and
-> you will be asked to complete various learning exercises throughout
-> the semester. You will need to demonstrate that you have completed the
-> exercises.
->
-> **Non-technical** -- "Fail Logs and Lab Notes" -- This is a
-> space for you to describe the work that you did for each lab. What can
-> go into this? Anything and everything. What should go into this? A
-> narrative of your work that connects the dots and explains the
-> thinking of what you did, a series of bread crumbs that helps you work
-> through your work; AND, a "fail log" or a description of where things
-> fell apart and what you did to get back on track. **You must
-> acknowledge the collaboration and assistance you received to address
-> these issues**.
->
-> **Data Development** -- Students will find, capture,
-> transcribe, and enter the data for 5 slave ads. This will include
-> creating a XML version of the ad AND entering data from the ad into
-> the database. *If we decide more are possible, we may increase the
-> number of ads*.
->
-> **Software Installations** - Nothing can slow a class like
-> this down like students troubleshooting software installations
-> in-class. I will post instruction on how to get access to every
-> technology we will use in class and you will be responsible for
-> submitting a screenshot that proves the program is installed AND
-> working before we use it in class.
+- **Technical** -- The course is designed to be hands on, and you will be asked to complete various learning exercises throughout the semester. You will need to demonstrate that you have completed the exercises.
 
-**Reading Responses (22.5%)**
+- **Non-technical** -- "Fail Logs and Lab Notes" -- This is a space for you to describe the work that you did for each lab. What can go into this? Anything and everything. What should go into this? A narrative of your work that connects the dots and explains the thinking of what you did, a series of bread crumbs that helps you work through your work; AND, a "fail log" or a description of where things fell apart and what you did to get back on track. **You must acknowledge the collaboration and assistance you received to address these issues**.
+
+- **Data Development** -- Students will find, capture,
+transcribe, and enter the data for 5 slave ads. This will include
+creating a XML version of the ad AND entering data from the ad into
+the database. *If we decide more are possible, we may increase the
+number of ads*.
+
+- **Software Installations** - Nothing can slow a class like this down like students troubleshooting software installations in-class. I will post instruction on how to get access to every technology we will use in class and you will be responsible for submitting a screenshot that proves the program is installed AND
+ working before we use it in class.
+
+ **Labs (15%)**
+
+In addition to in-class "weekly work" in some instances you will be assigned a separate set of analyses that ask you to apply some of the techniques we have been learning.
+
+**Website Assessment (10%)** 
+
+At various points throughout the semester you will be required to analyze a Digital History Website
+
+**Reading Responses (10%)**
 
 Throughout the semester, I will post questions to Canvas for most of
 the readings. At times these might be discussion boards, in other
@@ -201,6 +194,8 @@ demonstrate that you are completing the readings; thinking critically
 about the arguments therein; and, how they might impact our
 class/project. (Students will be allowed to drop the lowest 10% of
 scores)
+
+**Final Project (40%)**
 
 **Attendance and Contribution (15%)**
 
@@ -260,7 +255,7 @@ negatively impact your contribution grade.
 |---------------------|---------------------------|---------------------------|------------------------------|
 | Use is *inappropriate*. Device is a distraction to others. **Examples**: A student uses their device to play games, view material unrelated to the course, OR hold social conversations. | Use is *distracting* to the student, their colleagues, and/or the instructor. Student frequently checks devices for information unrelated to the class. **Example**: A student takes out their phone to look at text messages several times in one class period. | Device is *not used* except during designed times, or device use is limited to quick checks during times of transition. **Example**: a student receives an important text from a parent, which they check quickly during our transition between group work and full-class discussion, but waits to respond until an appropriate time. | Device *only used* as an efficient academic tool for a direct purpose. Device is not a distraction. but used at appropriate times as an extension of work or learning. **Examples**: A student uses their phone to do research during a research project, or uses their laptop to create a collaborative document for a group project. |
 
-**Final Project (40% Total)** --
+**Final Project Assignment** --
 
 Collectively, we will create a working prototype of a digital history
 website devoted to runaway slave advertisements from Ohio newspapers.
@@ -270,17 +265,15 @@ and tools that we learn together in class.
 
 That website will house three types of student work.
 
-1)  DATA -- The first will be the data, students will text encode a number of runaway ads throughout the semester, you will generate and populate a database that holds the structured data you deem important from the ads you select and encode.
+1)  DATA -- The first will be the data, students will encode a number of runaway ads throughout the semester, you will generate and populate a database that holds the structured data you deem important from the ads you select and encode.
 
 2)  Interpretive Digital History projects -- working in teams, or even in one big team, you will build a piece of digital history using the data and skills we have developed over the course of the semester. *Students can elect to identify a new digital tool and apply it to their historical problem.* **This will require you to pose a historical question and to answer it in digital form using digital tools/techniques.**
 
 3)  Collective Work on introducing the site.
 
-4)  Grading of Final Project
+***Grading of Final Project***
 
-> **Collective Work --** The quality of the ads that you are responsible
-> for transcribing AND the quality of your team's section of the
-> class-site will be considered here.
+ **Collective Work (5%) --** The quality of the ads that you are responsible for transcribing AND the quality of your team's section of the class-site will be considered here.
 
 **Final Report (7.5%) --** Your Final Report will consist of two parts:
 
@@ -311,6 +304,26 @@ classes available online, and the many people who contributed tutorials
 to the Programming Historian website.
 
 ## Policies and Procedures
+
+**AI USE** 
+
+We will be actively using various LLMs throughout the semester to do Digital History. You will have access to the most powerful models through DenAI <a href="https://denai.denison.edu" target="_blank">denai.denison.edu</a>
+- *Note:* You will need to be on Denison wifi or use the Denison VPN access this resource
+
+**AI Policies**
+
+The development of generative AI chatbots like ChatGPT, Claude, and Gemini are transforming the landscape of higher education. With that reality in mind, here are some guiding principles for the use of AI in our course (other faculty may have different policies, and it is **YOUR** responsibility to know what each of your professors determine is the acceptable and ethical use of AI in their courses).
+
+AI can be a powerful tutor and instructor for many of the tools we will be exploring this semester. It is acceptable to you to use AI as an assistant in this regard, but it is extremely important that you clearly state how and why you used AI in your assignments.
+
+- RECOGNIZE that my primary interest is to know what YOU THINK about the materials I have assigned. (I don’t care what a computer might produce as representing the “hive mind” or “groupthink ” best answer to a question based on what others have written.)
+
+- If you consult AI, Academic Integrity requires that you ACKNOWLEDGE such use to your readers. Do so in a footnote. In a sentence, explain your use of AI and identify the tool(s) you consulted.
+
+    - **Do not CITE AI.** Citations are meant to identify the work of other humans that you have consulted, and to provide a clear path to your evidence for your readers should they want to consult it themselves. AI-produced information is not reproducible, and thus is not a valid source.
+
+In our class, AI will serve as a technical tutor, but should not be used to generate ideas or arguments.  Please do not use AI for reading responses or other writing we may do.
+
 
 **Late Work:** Deadlines matter! This is an important thing to
 recognize. However, life happens and I want to be as supportive and
@@ -378,7 +391,7 @@ me privately as soon as possible to discuss his or her specific needs. I
 rely on the Academic Support & Enrichment Center in 104 Doane to verify
 the need for reasonable accommodations.
 
-[Writing Center:]{.underline} The Center is a free resource available to
+**Writing Center:** The Center is a free resource available to
 all Denison students.  Student writing consultants from many majors help
 writers one-on-one in all phases of the writing process, from
 deciphering the assignment, to discussing ideas, to developing an
@@ -418,12 +431,11 @@ leave.
 **Thursday, August 28**  
 Introductions and Course Overview
 
-- **Google Drive Setup**
-- [Google Drive Installation](https://docs.google.com/document/d/1cQHefWqXcXQq9bbJGlev4kIz2uE7f6xvC0s79sdC3sI/edit?usp=sharing)
+ 
 
 - [Software Installations](installations.md)
 
-- **Timeline_JS Introduction**
+- [**Timeline_JS Assignment**](https://docs.google.com/document/d/1DdSkJG7Wpj0H35m_2D7ZgqPEDdy4K29KDfzQerxsr6M/edit?usp=sharing)
 
 
 ### Week 2 {#week2}
@@ -447,13 +459,15 @@ Readings:
 
 **Tuesday, September 9**  
 
-**Website Review:** 
-[Medieval Murder Map](https://medievalmurdermap.co.uk/)
-
-
+**Mapping - Points**
 
 Reading:
 - Emily Johnson and Anastasia Salter, "<a href="https://doi-org.denison.idm.oclc.org/10.3998/mpub.14510509" target="_blank">Map</a>," *Critical Making in the Age of AI* (Amherst College Press, 2025)
+
+**Website Review:** 
+[Medieval Murder Map](https://medievalmurdermap.co.uk/)
+
+- Copy, rename, and move this [form](https://docs.google.com/document/d/1iJ76JzlcSR5aH3mpuYpapCx6d-tvRedAPWAe6qwE_Mk/edit?usp=sharing) to complete the assignment. Paste the associated url into Canvas.
 
 **Mapping Lab** [Mapping Lab Assignment](MappingOne.md)
 
