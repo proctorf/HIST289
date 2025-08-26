@@ -64,14 +64,13 @@ and ads.
 
 **Learning Goals:**
 
-1)  Gain an introductory knowledge of some of the digital tools or
-    > methods that can be useful to historians (such as mapping, social
-    > network analysis, distant reading, text encoding, etc.)
+1)  Gain an introductory knowledge of some of the digital tools or methods that can be useful to historians (such as mapping, social network analysis, distant reading, text encoding, etc.)
 
-2)  To consider the meaning of DATA; and, to explore how to treat
-    > historical sources as such
+2)  Gain knowledge of and experience with the applications of genAI for Digital History work
 
-3)  Historical Thinking; or, Sharpening your ability to
+3)  To consider the meaning of DATA; and, to explore how to treat historical sources as such
+
+4)  Historical Thinking; or, Sharpening your ability to
 
     a.  Ask complex yet answerable historical questions
 
@@ -87,7 +86,7 @@ and ads.
         > implicit arguments within such sources, and to employ such
         > sources in the service of making your own arguments.
 
-4)  Digital Power and Justice
+5)  Digital Power and Justice
 
     a.  Seek a deeper understanding of the systems of power that underwrote enslavement including those of race and gender
 
@@ -95,15 +94,15 @@ and ads.
 
     c.  Consider how best to actively avoid internalizing such systems of power in our own knowledge creation and digital presentation
 
-5)  Failing Productively
+6)  Failing Productively
 
-6)  Learn to apply technical knowledge about digital history to a substantive and complex historical subject
+7)  Learn to apply technical knowledge about digital history to a substantive and complex historical subject
 
-7)  Think explicitly and critically about how digital technologies change and potentially help the communication of historical narratives and interpretations.
+8)  Think explicitly and critically about how digital technologies change and potentially help the communication of historical narratives and interpretations.
 
-8)  Acquire experience managing a team-based digital humanities project
+9)  Acquire experience managing a team-based digital humanities project
 
-9)  Help construct a public-facing digital exhibition/project
+10) Help construct a public-facing digital exhibition/project
 
 ## What to Expect
 
