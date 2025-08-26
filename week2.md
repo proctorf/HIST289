@@ -1,5 +1,6 @@
 ---
-title: Week 2
+layout: default
+title: Week 2 - Digital History Introduction and Slavery
 ---
 
 # Week 2
@@ -16,6 +17,5 @@ Readings:
 **Slavery - how bad was it? (H)**
 
 Readings:
-- Orlando Patterson, <a href="https://go.exlibris.link/2NYKmyyQ" target="_blank">*Slavery and Social Death: A Comparative Study*</a> (Cambridge: Harvard University Press, 1982), 1-14 (Chapter 1)
-- Thelma Jennings, "'<a href="http://0-gateway.proquest.com.dewey2.library.denison.edu/openurl?url_ver=Z39.88-2004&res_dat=xri:pao-us:&rft_dat=xri:pao:article:h338-1990-001-03-000003" target="_blank">Us Colored Women Had to Go Through A Plenty': Sexual Exploitation and African American Women</a>," *Journal of Women's History* (1990): 45-74.
-- Walter Johnson, <a href="https://drive.google.com/file/d/1mFs5Eul_wiBaU2L-zb4Rk_bQueR96Gsl/view?usp=sharing" target="_blank">*Soul by Soul: Life Inside the Antebellum Slave Market*</a> (Cambridge: Harvard Univ Press, 1999), pg 19-24 & 117-134.
+
+- Solomon Northup, *Twelve Years a Slave* Sections TBD

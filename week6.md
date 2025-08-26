@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Week 6 - Runaway Slaves and QGIS"
+layout: default
+title: Week 6 - Runaway Slaves and Interpretations
 ---
 
 # Week 6
@@ -10,10 +10,11 @@ title: "Week 6 - Runaway Slaves and QGIS"
 
 Readings:
 - Franklin and Schweninger, *Runaway Slaves*, 5 & 9 and Appendix 7 "Runaway Slave Database"
-- Stephanie Camp, [*Closer to Freedom*](https://heinonline.org/HOL/P?h=hein.peggy/csfd0001&i=51), Ch 2
+- Stephanie Camp, <a href="https://heinonline.org/HOL/P?h=hein.peggy/csfd0001&i=51" target="_blank">*Closer to Freedom*</a>, Ch 2
 
 **Thursday, October 2**  
-**QGIS**
+**Interpretations of Runaways**
 
-Reading:
-- Andrew Wiseman, "[When Maps Lie: Tips from a geographer on how to avoid being fooled](https://www.bloomberg.com/news/articles/2015-06-25/how-to-avoid-being-fooled-by-bad-maps?utm_source=website&utm_medium=share&utm_campaign=copy)," *Bloomberg.com*, 6/25/2015
+Readings:
+- Antonio Bly, <a href="https://doi.org/10.1080/0144039X.2020.1801069" target="_blank">"'Indubitable Signs': Reading Silence as Text in New England Runaway Slave Advertisements,"</a> *Slavery & Abolition* 42:2 (2021): 240-268.
+- I.M Nick, <a href="https://ans-names.pitt.edu/ans/article/view/2436" target="_blank">"In the Name of Freedom: A Corpus Linguistic Analysis of Personal Names Recorded in Fugitive Slaver Advertisements Published in New York and New Jersey 18th-Century Newspapers,"</a> *Names* 70:3(2022): 12-23.

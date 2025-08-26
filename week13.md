@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Week 13 - Digital Tools and Final Projects"
+layout: default
+title: Week 13 - Cool Tools and Final Project Work
 ---
 
 # Week 13

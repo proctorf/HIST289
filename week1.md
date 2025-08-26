@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Week 1 - Course Introduction"
+layout: default
+title: Week 1 - Introduction
 ---
 
 # Week 1
@@ -8,7 +8,8 @@ title: "Week 1 - Course Introduction"
 **Thursday, August 28**  
 Introductions and Course Overview
 
-- **Google Drive Setup**
-- [Google Drive Installation](https://docs.google.com/document/d/1cQHefWqXcXQq9bbJGlev4kIz2uE7f6xvC0s79sdC3sI/edit?usp=sharing)
-- Installations 
-- **Timeline_JS Introduction**
+ 
+
+- [Software Installations](installations.md)
+
+- [**Exercise: Timeline_JS Assignment**](https://docs.google.com/document/d/1DdSkJG7Wpj0H35m_2D7ZgqPEDdy4K29KDfzQerxsr6M/edit?usp=sharing)

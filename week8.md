@@ -1,17 +1,15 @@
 ---
-layout: page
-title: "Week 8 - XML and Text Encoding"
+layout: default
+title: Week 8 - Advanced Mapping and Fall Break
 ---
 
 # Week 8
 
 **Tuesday, October 14**  
-**XML 1 - Annotation/Text Encoding**
+**Advanced Mapping cont. / QGIS**
 
-Readings:
-- "[How it feels to be colored me](https://genius.com/Zora-neale-hurston-how-it-feels-to-be-colored-me-annotated)," Zora Neale Hurston
-- [Obdurodon's "What is XML and Why should humanists care?"](http://dh.obdurodon.org/what-is-xml.xhtml)
-- [TEI and XML Markup for absolute beginners](https://fordhamgsdh.wordpress.com/2016/06/16/tei-and-xml-markup-for-absolute-beginners)
+Reading:
+- Susan Schulten, "<a href="https://doi.org/10.1353/cwh.0.0141" target="_blank">The Cartography of Slavery and the Authority of Statistics</a>," *Civil War History* 56:1 (2010): 5-32.
 
 **Thursday, October 16**  
 **FALL BREAK - NO CLASS**

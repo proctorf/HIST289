@@ -6,7 +6,7 @@ title: Fugative Slaves in Ohio
 
 **Fall 2025**
 
-<img src="media/runaway.jpg" alt="Runaway slave advertisement" style="width: 300px; height: auto; max-width: 100%;">
+<img src="media/runaway.jpg" alt="Runaway slave advertisement" style="width: 450px; height: auto; max-width: 100%;">
 
 **Professor Frank "Trey" Proctor III**
 
@@ -434,7 +434,7 @@ Introductions and Course Overview
 
 - [Software Installations](installations.md)
 
-- [**Timeline_JS Assignment**](https://docs.google.com/document/d/1DdSkJG7Wpj0H35m_2D7ZgqPEDdy4K29KDfzQerxsr6M/edit?usp=sharing)
+- [**Exercise: Timeline_JS Assignment**](https://docs.google.com/document/d/1DdSkJG7Wpj0H35m_2D7ZgqPEDdy4K29KDfzQerxsr6M/edit?usp=sharing)
 
 
 ### Week 2 {#week2}
@@ -468,9 +468,7 @@ Reading:
 
 - Copy, rename, and move this [form](https://docs.google.com/document/d/1iJ76JzlcSR5aH3mpuYpapCx6d-tvRedAPWAe6qwE_Mk/edit?usp=sharing) to complete the assignment. Paste the associated url into Canvas.
 
-**Mapping Lab** [Mapping Lab Assignment](MappingOne.md)
-
-
+[**Exercise: Mapping Lab - Points**](MappingOne.md)
  
 **Thursday, September 11**  
 **Our Data? (H)**
@@ -478,6 +476,8 @@ Reading:
 Readings:
 
 - Ellen Gruber Garvey, "'<a href="https://doi-org.denison.idm.oclc.org/10.7551/mitpress/9302.003.0007" target="_blank">facts and FACTS': Abolitionists Database Innovations</a>," in *"Raw Data" is an Oxymoron*, Lisa Gitelman, ed. (Cambridge, Ma: MIT Press, 2013), 89-102.
+
+**Exercise**
 
 ### Week 4 {#week4}
 
@@ -491,6 +491,8 @@ XML Readings:
 
 - <a href="http://dh.obdurodon.org/what-is-xml.xhtml" target="_blank">Obdurodon's "What is XML and Why should humanists care?"</a>
 - <a href="https://fordhamgsdh.wordpress.com/2016/06/16/tei-and-xml-markup-for-absolute-beginners" target="_blank">TEI and XML Markup for absolute beginners</a>
+
+**Exercise**
 
 **Thursday, September 18**  
 **Slavery and Freedom in Ohio cont. / XML**
@@ -509,6 +511,8 @@ Reading:
 
 **Thursday, September 25**  
 **XML/PEI (Proctor Encoding Initiative)**
+
+**LAB**
 
 ### Week 6 {#week6}
 
@@ -534,6 +538,8 @@ Readings:
 Readings:
 - Susanna Ashton and Jonathan D. Hepworth, "<a href="http://theappendix.net/issues/2013/10/reclaiming-a-fugitive-landscape" target="_blank">Jackson Unchained: Reclaiming a Fugitive Landscape</a>," *The Appendix*, November 5, 2013
 - Amani Marshall, "'<a href="https://doi.org/10.1080/01440391003711065" target="_blank">They Will Endeavor to Pass for Free': Enslaved Runaways' Performances of Freedom in Antebellum South Carolina</a>," *Slavery & Abolition* 31, no. 2 (2010): 161-180.
+
+[**Exercise - ESRI StoryMaps and StoryMap.JS**](MappingTwo.md)
 
 **Thursday, October 9**  
 **Advanced Mapping / QGIS**
