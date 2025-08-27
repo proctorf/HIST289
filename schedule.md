@@ -2,14 +2,8 @@
 layout: default
 title: HIST 289 Course Schedule - Fall 2025
 ---
+## Course Schedule - Fall 2025 (Subject to Change)
 
-# HIST 289 Digital History: Enslaved Fugitives in Ohio
-## Course Schedule - Fall 2025
-
-**Tuesday/Thursday 1:30-2:50 PM**  
-**Talbot 229**
-
----
 
 ## Week 1 {#week1}
 
@@ -273,15 +267,6 @@ Course Evaluations
 **Final Project Due: Sunday, December 14, 2025 @ 8:30pm**
 
 ---
-
-## Important Dates Summary
-
-- **First Class:** Thursday, August 28, 2025
-- **Fall Break:** Thursday, October 16, 2025 (no class)
-- **Thanksgiving Break:** November 24-28, 2025
-- **Last Class:** Thursday, December 11, 2025
-- **Final Project Due:** Sunday, December 14, 2025 @ 8:30pm
-
 ---
 
-*For the complete syllabus including learning goals, assignments, and policies, see [index.md](index.md)*
+*For the complete syllabus including learning goals, assignments, and policies, see the [Syllabus](https://proctorf.github.io/HIST289/)*
