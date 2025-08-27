@@ -140,7 +140,7 @@ classes will add to. This also means that we have to be attentive to our
 audience(s). This should be a different experience, and product, then a
 research class or readings colloquium.
 
-**OFFICE HOURS** -
+## Office Hours
 
 The purpose of office hours is to make myself available to my students
 to discuss our class, their assignments, and perhaps even their larger
