@@ -13,17 +13,7 @@ title: Enslaved Fugatives in Ohio
 Class: TTh 130-250 Talbot 229
 
 Office Hours: MWF 10:30-1130, Tues 9-10, and **by appointment**
-(in person oargumargument, to finalizing a draft.  Please visit the Writing Center
-Website at
-<a href="http://www.denison.edu/writingctr/" target="_blank">http://www.denison.edu/writingctr/</a> for locations and hours.
-
-
-**L2 or Multilingual Support:** In addition to theo finalizing a draft.  Please visit the Writing Center
-Website at
-<a href="http://www.denison.edu/writingctr/" target="_blank">http://www.denison.edu/writingctr/</a> for locations and hours.
-
-
-**L2 or Multilingual Support:** In addition to theZoom)
+(in person or via Zoom)
 
 Office: 404 Fellows Hall
 
@@ -180,7 +170,7 @@ number of ads*.
 - **Software Installations** - Nothing can slow a class like this down like students troubleshooting software installations in-class. I will post instruction on how to get access to every technology we will use in class and you will be responsible for submitting a screenshot that proves the program is installed AND
  working before we use it in class.
 
- **Labs (15%)**
+**Labs (15%)**
 
 In addition to in-class "weekly work" in some instances you will be assigned a separate set of analyses that ask you to apply some of the techniques we have been learning.
 
