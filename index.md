@@ -72,7 +72,7 @@ digital world and consider how we might avoid perpetuating them as we
 create our own digital exhibition related to runaway slave narratives
 and ads.
 
-**Learning Goals:**
+## Learning Goals:
 
 1)  Gain an introductory knowledge of some of the digital tools or methods that can be useful to historians (such as mapping, social network analysis, distant reading, text encoding, etc.)
 
@@ -159,7 +159,7 @@ syllabus.*
 
 ## Assignments and Grades
 
-**Weekly Work (10%)** --
+**Weekly Work (10%)**
 
 Throughout the semester we will complete various homework assignments
 that will have a series of assignments with **technical**,
@@ -454,7 +454,7 @@ Readings:
 - Jonathan Zimmerman, <a href="https://www.washingtonpost.com/opinions/2023/08/29/ai-student-policy-chatgpt-college/" target="_blank">“Here’s my AI policy for students: I don’t have one,”</a> Washington Post, August 29, 2023, Accessed Sept 12, 2023.  <a href="https://drive.google.com/file/d/1QtPAVn0XlV-fpQ4tFf1xEHyxv66WAiRX/view?usp=drive_link" target="_blank">Link to pdf of article</a> 
 
 **Thursday, September 4**  
-**Slavery - how bad was it?**
+**Slavery - what was it like?**
 
 Readings:
 
