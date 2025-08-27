@@ -17,22 +17,23 @@ title: HIST 289 Course Schedule - Fall 2025
 Introductions and Course Overview
 
 - [Software Installations](installations.md)
-- [**Exercise: Timeline_JS Assignment**](https://docs.google.com/document/d/1DdSkJG7Wpj0H35m_2D7ZgqPEDdy4K29KDfzQerxsr6M/edit?usp=sharing)
+- <a href="https://docs.google.com/document/d/1DdSkJG7Wpj0H35m_2D7ZgqPEDdy4K29KDfzQerxsr6M/edit?usp=sharing" target="_blank">**Exercise: Timeline_JS Assignment**</a>
 
 ---
 
 ## Week 2 {#week2}
 
 **Tuesday, September 2**  
-**What is History? Digital Humanities? Digital History? (H)**
+**What is History? Digital Humanities? Digital History?**
 
 Readings:
 - John Arnold, <a href="https://doi-org.denison.idm.oclc.org/10.1093/actrade/9780192853523.003.0001" target="_blank">*History: A Very Short Introduction*</a> (Oxford: Oxford University Press, 2000), 1-14.
 - Anne Burdick, "<a href="https://doi.org/10.7551/mitpress/9248.003.0003" target="_blank">From Humanities to Digital Humanities</a>," in *Digital Humanities* (Cambridge, MA: MIT Press, 2012), 1-26.
 - Stephen Robertson, "The Differences between Digital Humanities and Digital History," in *Debates in the Digital Humanities 2016* available at: <a href="http://dhdebates.gc.cuny.edu/debates/text/76" target="_blank">http://dhdebates.gc.cuny.edu/debates/text/76</a> (or <a href="https://muse.jhu.edu/book/46383" target="_blank">https://muse.jhu.edu/book/46383</a> CH 25)
+- Jonathan Zimmerman, <a href="https://www.washingtonpost.com/opinions/2023/08/29/ai-student-policy-chatgpt-college/" target="_blank">"Here's my AI policy for students: I don't have one,"</a> Washington Post, August 29, 2023, Accessed Sept 12, 2023.  <a href="https://drive.google.com/file/d/1QtPAVn0XlV-fpQ4tFf1xEHyxv66WAiRX/view?usp=drive_link" target="_blank">Link to pdf of article</a>
 
 **Thursday, September 4**  
-**Slavery - how bad was it? (H)**
+**Slavery - how bad was it?**
 
 Readings:
 - Solomon Northup, *Twelve Years a Slave* Sections TBD
@@ -48,13 +49,13 @@ Reading:
 - Emily Johnson and Anastasia Salter, "<a href="https://doi-org.denison.idm.oclc.org/10.3998/mpub.14510509" target="_blank">Map</a>," *Critical Making in the Age of AI* (Amherst College Press, 2025)
 
 **Website Review:** 
-[Medieval Murder Map](https://medievalmurdermap.co.uk/)
-- Copy, rename, and move this [form](https://docs.google.com/document/d/1iJ76JzlcSR5aH3mpuYpapCx6d-tvRedAPWAe6qwE_Mk/edit?usp=sharing) to complete the assignment. Paste the associated url into Canvas.
+<a href="https://medievalmurdermap.co.uk/" target="_blank">Medieval Murder Map</a>
+- Copy, rename, and move this <a href="https://docs.google.com/document/d/1iJ76JzlcSR5aH3mpuYpapCx6d-tvRedAPWAe6qwE_Mk/edit?usp=sharing" target="_blank">form</a> to complete the assignment. Paste the associated url into Canvas.
 
 [**Exercise: Mapping Lab - Points**](MappingOne.md)
  
 **Thursday, September 11**  
-**Our Data? (H)**
+**Our Data?**
 
 Readings:
 - Ellen Gruber Garvey, "'<a href="https://doi-org.denison.idm.oclc.org/10.7551/mitpress/9302.003.0007" target="_blank">facts and FACTS': Abolitionists Database Innovations</a>," in *"Raw Data" is an Oxymoron*, Lisa Gitelman, ed. (Cambridge, Ma: MIT Press, 2013), 89-102.
@@ -66,7 +67,7 @@ Readings:
 ## Week 4 {#week4}
 
 **Tuesday, September 16**  
-**Slavery and Freedom in Ohio (H) / XML**
+**Slavery and Freedom in Ohio / XML**
 
 Reading:
 - Matthew Salafia, "Fugitive Slaves and the Borderland" from <a href="https://www-jstor-org.denison.idm.oclc.org/stable/j.ctt3fhvrx" target="_blank">*Slavery's Borderland: Freedom and Bondage Along the Ohio River*</a> (Univ. of Pennsylvania Press, 2013): 165-184.
@@ -89,8 +90,8 @@ Reading:
 
 **Tuesday, September 23**  
 **Website Review:** 
-[Freedom on the Move](https://freedomonthemove.org/)
-- Copy, rename, and move this [form](https://docs.google.com/document/d/1iJ76JzlcSR5aH3mpuYpapCx6d-tvRedAPWAe6qwE_Mk/edit?usp=sharing) to complete the assignment. Paste the associated url into Canvas.
+<a href="https://freedomonthemove.org/" target="_blank">Freedom on the Move</a>
+- Copy, rename, and move this <a href="https://docs.google.com/document/d/1iJ76JzlcSR5aH3mpuYpapCx6d-tvRedAPWAe6qwE_Mk/edit?usp=sharing" target="_blank">form</a> to complete the assignment. Paste the associated url into Canvas.
 
 **Thursday, September 25**  
 **XML/PEI (Proctor Encoding Initiative)**
@@ -102,7 +103,7 @@ Reading:
 ## Week 6 {#week6}
 
 **Tuesday, September 30**  
-**Runaway Slaves in the US (H)**
+**Runaway Slaves in the US**
 
 Readings:
 - Franklin and Schweninger, *Runaway Slaves*, 5 & 9 and Appendix 7 "Runaway Slave Database"
@@ -120,7 +121,7 @@ Readings:
 ## Week 7 {#week7}
 
 **Tuesday, October 7**  
-**Runaway Slaves in US, cont (H) / ARC StoryMaps**
+**Runaway Slaves in US, cont / ARC StoryMaps**
 
 Readings:
 - Susanna Ashton and Jonathan D. Hepworth, "<a href="http://theappendix.net/issues/2013/10/reclaiming-a-fugitive-landscape" target="_blank">Jackson Unchained: Reclaiming a Fugitive Landscape</a>," *The Appendix*, November 5, 2013
@@ -131,8 +132,8 @@ Readings:
 **Thursday, October 9**  
 **Advanced Mapping / QGIS**
 
-**Website Review** [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/)
-- Copy, rename, and move this [form](https://docs.google.com/document/d/1iJ76JzlcSR5aH3mpuYpapCx6d-tvRedAPWAe6qwE_Mk/edit?usp=sharing) to complete the assignment. Paste the associated url into Canvas.
+**Website Review** <a href="https://dsl.richmond.edu/panorama/redlining/" target="_blank">Mapping Inequality</a>
+- Copy, rename, and move this <a href="https://docs.google.com/document/d/1iJ76JzlcSR5aH3mpuYpapCx6d-tvRedAPWAe6qwE_Mk/edit?usp=sharing" target="_blank">form</a> to complete the assignment. Paste the associated url into Canvas.
 
 ---
 
@@ -163,9 +164,10 @@ Readings:
 - Johanna Drucker, "Data Mining and Text Analysis," in *The Digital Humanities Coursebook* (Routledge, 2021),110-120.
 - Cameron Blevins,<a href="http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/" target="_blank">"Topic Modeling Martha Ballard's Diary,"</a> April 1, 2010
 - Eleanor Stribling, <a href="https://medium.com/agatha-codes/a-bossy-sort-of-voice-3c3a18de3093" target="_blank">"A Bossy Sort of Voice: Quantifying gender bias in "Harry Potter" with Python and NLTK"</a> *Medium* May 4, 2018 (don't worry about the code)
+- Aatish Bhatia, <a href="https://www.nytimes.com/interactive/2023/04/26/upshot/gpt-from-scratch.html?searchResultPosition=1" target="_blank">"Watch an A.I Learn to Write by Reading Nothing but Jane Austen,"</a> The New York Times, April 27, 2023 (accessed 9/11/23)
 
 **Website Review** - <a href="https://dsl.richmond.edu/dispatch/introduction" target="_blank">"Mining the Dispatch"</a>
-- Copy, rename, and move this [form](https://docs.google.com/document/d/1iJ76JzlcSR5aH3mpuYpapCx6d-tvRedAPWAe6qwE_Mk/edit?usp=sharing) to complete the assignment. Paste the associated url into Canvas.
+- Copy, rename, and move this <a href="https://docs.google.com/document/d/1iJ76JzlcSR5aH3mpuYpapCx6d-tvRedAPWAe6qwE_Mk/edit?usp=sharing" target="_blank">form</a> to complete the assignment. Paste the associated url into Canvas.
 
 **Tutorial - Distant Reading with Voyant and nocodefunction.com**
 
@@ -194,11 +196,13 @@ Readings:
 ## Week 11 {#week11}
 
 **Tuesday, November 4**  
-**Digital Humanities and Data (H)**
+**Digital Humanities and Data**
 
 Readings:
 - Catherine D'Ignazio and Lauren Klein, "CH 6 - The Numbers Don't Speak for Themselves," in <a href="https://dewey2.library.denison.edu/record=b8287792~S6" target="_blank">*Data Feminism*</a> (Cambridge, MA: MIT University Press, 2020), 149-172.
-- Jessica Marie Johnson, "Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads," *Social Text* 36:4 (2018): 57-79.
+- Jessica Marie Johnson, <a href="https://doi-org.denison.idm.oclc.org/10.1215/01642472-7145658" target="_blank">"Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads,"</a> *Social Text* 36:4 (2018): 57-79.
+- Pranshu Verma, <a href="https://www.washingtonpost.com/technology/2022/07/16/racist-robots-ai/" target="_blank">"These robots were trained on AI. They became racist and sexist,"</a> The Washington Post, July 16, 2022
+- Nitasha Tiku, Kevin Schaul and Szu Yu Chen, <a href="https://www.washingtonpost.com/technology/interactive/2023/ai-generated-images-bias-racism-sexism-stereotypes/" target="_blank">"This is how AI image generators see the world,"</a> The Washington Post (November 1st, 2023)
 
 **Thursday, November 6**  
 **Visualizations / Tableau**
@@ -225,7 +229,7 @@ Readings:
 - Lauren Klein, "<a href="https://hdsr.mitpress.mit.edu/pub/oraonikr/release/3" target="_blank">What Data Visualization Reveals: Elizabeth Palmer Peabody and the Work of Knowledge Production</a>," *Harvard Data Science Review* 4:2 (2022): 1-34.
 
 **Website Review** <a href="https://Unsilencing-slavery.org" target="_blank">(Un)Silencing Slavery</a>
-- Copy, rename, and move this [form](https://docs.google.com/document/d/1iJ76JzlcSR5aH3mpuYpapCx6d-tvRedAPWAe6qwE_Mk/edit?usp=sharing) to complete the assignment. Paste the associated url into Canvas.
+- Copy, rename, and move this <a href="https://docs.google.com/document/d/1iJ76JzlcSR5aH3mpuYpapCx6d-tvRedAPWAe6qwE_Mk/edit?usp=sharing" target="_blank">form</a> to complete the assignment. Paste the associated url into Canvas.
 
 ---
 
@@ -233,6 +237,9 @@ Readings:
 
 **Tuesday, November 18**  
 **Other cool tools - Inky, OpenRefine, and GEPHI**
+
+- Billy Perrigo, "OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic," TIME, January 18, 2023
+- <a href="https://samplereality.itch.io/content-moderator-sim" target="_blank">Content Moderator Sim</a>
 
 **Thursday, November 20**  
 **Final Project Workday**
