@@ -86,15 +86,9 @@ and ads.
 
     b.  Articulate and communicate complex historical theses/arguments
 
-    c.  Identify, locate, and marshal both *primary* and *secondary*
-        > forms of evidence in support of those arguments in written,
-        > oral, and visual forms in order to prove your position
+    c.  Identify, locate, and marshal both *primary* and *secondary* forms of evidence in support of those arguments in written, oral, and visual forms in order to prove your position
 
-    d.  Hone your skills at interpreting various types of written and
-        > visual primary sources and historical literature, to reinforce
-        > your ability to identify and critique the various explicit and
-        > implicit arguments within such sources, and to employ such
-        > sources in the service of making your own arguments.
+    d.  Hone your skills at interpreting various types of written and visual primary sources and historical literature, to reinforce your ability to identify and critique the various explicit and implicit arguments within such sources, and to employ such sources in the service of making your own arguments.
 
 5)  Digital Power and Justice
 
@@ -577,10 +571,6 @@ Reading:
 
 Readings:
 - Cameron Blevins, "<a href="https://www.jstor.org/stable/44285951" target="_blank">Space, Nation, and the Triumph of Region: A View of the World from Houston</a>," *The Journal of American History* 101:1 (2014): 122-147.
-
-- Elizabeth Weil, "<a href="https://nymag.com/intelligencer/article/ai-artificial-intelligence-chatbots-emily-m-bender.html" target="_blank">You are not a parrot: And a chatbot is not a human. And a linguist named Emily M. Bender is very worried what will happen when we forget this</a>,” The New York Magazine, March 1, 2023. (accessed 9/11/23)  <a href="https://drive.google.com/file/d/1REwBny7P7syRXBIpnBymQBxo53QPeO_S/view?usp=drive_link" target="_blank">PDF here</a>
-
-
 
 **Thursday, October 23**  
 **Distant Reading Primer**
