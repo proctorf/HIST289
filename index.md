@@ -82,21 +82,21 @@ and ads.
 
 4)  Historical Thinking; or, Sharpening your ability to
 
-    a.  Ask complex yet answerable historical questions
+    - Ask complex yet answerable historical questions
 
-    b.  Articulate and communicate complex historical theses/arguments
+    - Articulate and communicate complex historical theses/arguments
 
-    c.  Identify, locate, and marshal both *primary* and *secondary* forms of evidence in support of those arguments in written, oral, and visual forms in order to prove your position
+    - Identify, locate, and marshal both *primary* and *secondary* forms of evidence in support of those arguments in written, oral, and visual forms in order to prove your position
 
-    d.  Hone your skills at interpreting various types of written and visual primary sources and historical literature, to reinforce your ability to identify and critique the various explicit and implicit arguments within such sources, and to employ such sources in the service of making your own arguments.
+    - Hone your skills at interpreting various types of written and visual primary sources and historical literature, to reinforce your ability to identify and critique the various explicit and implicit arguments within such sources, and to employ such sources in the service of making your own arguments.
 
 5)  Digital Power and Justice
 
-    a.  Seek a deeper understanding of the systems of power that underwrote enslavement including those of race and gender
+    - Seek a deeper understanding of the systems of power that underwrote enslavement including those of race and gender
 
-    b.  Examine how the digital world can both perpetuate, and challenge, some of those systems of power in contemporary society
+    - Examine how the digital world can both perpetuate, and challenge, some of those systems of power in contemporary society
 
-    c.  Consider how best to actively avoid internalizing such systems of power in our own knowledge creation and digital presentation
+    - Consider how best to actively avoid internalizing such systems of power in our own knowledge creation and digital presentation
 
 6)  Failing Productively
 
