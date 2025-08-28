@@ -27,10 +27,11 @@ Readings:
 - Jonathan Zimmerman, <a href="https://www.washingtonpost.com/opinions/2023/08/29/ai-student-policy-chatgpt-college/" target="_blank">"Here's my AI policy for students: I don't have one,"</a> Washington Post, August 29, 2023, Accessed Sept 12, 2023.  <a href="https://drive.google.com/file/d/1QtPAVn0XlV-fpQ4tFf1xEHyxv66WAiRX/view?usp=drive_link" target="_blank">Link to pdf of article</a>
 
 **Thursday, September 4**  
-**Slavery - how bad was it?**
+**Slavery - what was it like?**
 
 Readings:
-- Solomon Northup, [*Twelve Years a Slave*](Northup_Excerpts.pdf) Sections TBD
+- Solomon Northup, <a href="https://raw.githubusercontent.com/proctorf/HIST289/main/Northup_Excerpts.pdf" target="_blank">
+*Twelve Years a Slave*</a> Sections TBD
 
 ---
 
