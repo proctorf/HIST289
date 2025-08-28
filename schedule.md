@@ -11,7 +11,7 @@ title: HIST 289 Course Schedule - Fall 2025
 Introductions and Course Overview
 
 - [Software Installations](installations.md)
-- <a href="https://docs.google.com/document/d/1DdSkJG7Wpj0H35m_2D7ZgqPEDdy4K29KDfzQerxsr6M/edit?usp=sharing" target="_blank">**Exercise: Timeline_JS Assignment**</a> (turn it in <a href="[https://docs.google.com/document/d/1DdSkJG7Wpj0H35m_2D7ZgqPEDdy4K29KDfzQerxsr6M/edit?usp=sharing](https://denison.instructure.com/courses/16395/assignments/150361)" target="_blank">here</a>) by Tuesday 9/2)
+- <a href="https://docs.google.com/document/d/1DdSkJG7Wpj0H35m_2D7ZgqPEDdy4K29KDfzQerxsr6M/edit?usp=sharing" target="_blank">**Exercise: Timeline_JS Assignment**</a> Turn it in <a href="https://denison.instructure.com/courses/16395/assignments/150361)" target="_blank">here</a> by Tuesday 9/2
 
 ---
 
