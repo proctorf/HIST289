@@ -31,7 +31,7 @@ Readings:
 
 Readings:
 - Solomon Northup, <a href="https://raw.githubusercontent.com/proctorf/HIST289/main/Northup_Excerpts.pdf" target="_blank">
-*Twelve Years a Slave*</a> Sections TBD
+*Twelve Years a Slave*</a>*Narrrative of Solomon Northup, a Citizen of New-York, Kidnapped in Washington City in 1841, and Rescued in 1853*, David Wilson, ed., (North Carolina Press, 2011), 44-46, 62-175.
 
 ---
 
