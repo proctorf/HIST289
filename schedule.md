@@ -26,12 +26,16 @@ Readings:
 - Stephen Robertson, "The Differences between Digital Humanities and Digital History," in *Debates in the Digital Humanities 2016* available at: <a href="http://dhdebates.gc.cuny.edu/debates/text/76" target="_blank">http://dhdebates.gc.cuny.edu/debates/text/76</a> (or <a href="https://muse.jhu.edu/book/46383" target="_blank">https://muse.jhu.edu/book/46383</a> CH 25)
 - Jonathan Zimmerman, <a href="https://www.washingtonpost.com/opinions/2023/08/29/ai-student-policy-chatgpt-college/" target="_blank">"Here's my AI policy for students: I don't have one,"</a> Washington Post, August 29, 2023, Accessed Sept 12, 2023.  <a href="https://drive.google.com/file/d/1QtPAVn0XlV-fpQ4tFf1xEHyxv66WAiRX/view?usp=drive_link" target="_blank">Link to pdf of article</a>
 
+**Assignment: <a href="https://denison.instructure.com/courses/16395/assignments/150351" target="_blank">Reading Response**</a>(Due before class)
+
 **Thursday, September 4**  
 **Slavery - what was it like?**
 
 Readings:
 - Solomon Northup, <a href="https://raw.githubusercontent.com/proctorf/HIST289/main/Northup_Excerpts.pdf" target="_blank">
 *Twelve Years a Slave* </a> *Narrrative of Solomon Northup, a Citizen of New-York, Kidnapped in Washington City in 1841, and Rescued in 1853*, David Wilson, ed., (North Carolina Press, 2011), 44-46, 62-175.
+
+**Assignment: <a href="https://denison.instructure.com/courses/16395/assignments/152993" target="_blank">Reading Response**</a>(Due before class)
 
 ---
 
