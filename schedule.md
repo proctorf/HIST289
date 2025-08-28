@@ -30,7 +30,7 @@ Readings:
 **Slavery - how bad was it?**
 
 Readings:
-- Solomon Northup, *Twelve Years a Slave* Sections TBD
+- Solomon Northup, *[Twelve Years a Slave]*(Northup_Excerpts.pdf) Sections TBD
 
 ---
 
