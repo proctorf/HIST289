@@ -49,7 +49,7 @@ Reading:
 
 **Website Review:** 
 <a href="https://medievalmurdermap.co.uk/" target="_blank">Medieval Murder Map</a>
-- Copy, rename, and move this <a href="https://docs.google.com/document/d/1iJ76JzlcSR5aH3mpuYpapCx6d-tvRedAPWAe6qwE_Mk/edit?usp=sharing" target="_blank">form</a> to complete the assignment. Paste the associated url into Canvas.
+- Copy, rename, and move this <a href="https://docs.google.com/document/d/1iJ76JzlcSR5aH3mpuYpapCx6d-tvRedAPWAe6qwE_Mk/edit?usp=sharing" target="_blank">form</a> to complete the assignment. Paste the associated url into Canvas <a href="https://denison.instructure.com/courses/16395/assignments/155061" target="_blank">here</a>
 
 [**Exercise: Mapping Lab - Points**](MappingOne.md)  [We will begin this in class, you do not need to start before hand]
  
