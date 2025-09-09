@@ -45,7 +45,7 @@ Readings:
 **Mapping - Points**
 
 Reading:
-- Emily Johnson and Anastasia Salter, "<a href="https://doi-org.denison.idm.oclc.org/10.3998/mpub.14510509" target="_blank">Map</a>," *Critical Making in the Age of AI* (Amherst College Press, 2025)
+- Emily Johnson and Anastasia Salter, "<a href="https://www.jstor.org/stable/10.3998/mpub.14510509" target="_blank">Map</a>," *Critical Making in the Age of AI* (Amherst College Press, 2025)
 
 **Website Review:** 
 <a href="https://medievalmurdermap.co.uk/" target="_blank">Medieval Murder Map</a>
