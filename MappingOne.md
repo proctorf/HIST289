@@ -95,12 +95,6 @@ browser, but I think the download may be rather large.
 
 #### CARTO
 
-
-
-Pros and Cons of Google Earth and Carto (according to ChatGPT)
----
-**Carto:**
-
 Carto is an accessible, cloud-based platform designed to help users easily create interactive and visually engaging maps by working with spatial data. It allows beginners to upload datasets, customize map layers with various colors, symbols, and labels, and add interactive features such as filters, time-series anaimation, and pop-ups to tell geographic stories and reveal patterns. Its intuitive interface and user-friendly tools make it a great resource for those new to digital mapping, enabling users to explore and communicate complex spatial information without needing advanced technical skills
 
 **Sign-Up**
@@ -112,6 +106,11 @@ Carto is an accessible, cloud-based platform designed to help users easily creat
     - ***Warning*** When you arrive at the screen asking for an Organization, you need to create your own.  Do not select one that might auto populate.
 
 ***<a href="https://docs.google.com/document/d/1gD2O-HJz-WbMGUG3cHU6B7A6E0-pkObUtyE2ESgaRXg/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Carto Tutorial</a>*** - click here for a step by step guide to some of the tools available in Carto
+
+
+Pros and Cons of Google Earth and Carto (according to ChatGPT)
+---
+**Carto:**
 
 *Pros:*
 
