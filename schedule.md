@@ -59,7 +59,8 @@ Reading:
 Readings:
 - Ellen Gruber Garvey, "'<a href="https://doi-org.denison.idm.oclc.org/10.7551/mitpress/9302.003.0007" target="_blank">facts and FACTS': Abolitionists Database Innovations</a>," in *"Raw Data" is an Oxymoron*, Lisa Gitelman, ed. (Cambridge, Ma: MIT Press, 2013), 89-102.
 
-**Exercise**
+**Exercise** <a href="https://docs.google.com/document/d/1W2c7abZJaPQv8Xl3ZGS3V7nk5F7wKzJ-Ke2JWjE06bw/edit?usp=sharing" target="_blank">Identifying Ads</a
+
 
 ---
 
