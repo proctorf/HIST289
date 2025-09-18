@@ -84,7 +84,7 @@ XML Readings:
 Reading:
 - R.H.M Blackett, "Western Kentucky and Ohio" in <a href="https://doi-org.denison.idm.oclc.org/10.1017/9781108275439" target="_blank">*The Captive's Quest for Freedom: Fugitive Slaves, the 1850 Fugitive Slave Law, and the Politics of Slavery*</a> (Cambridge Univ. Press, 2018): 222-268
 
-**Exercise** Encode an Ad
+**Exercise** [Encode a Recipe](recipe.md)
 
 ---
 
