@@ -93,7 +93,9 @@ Reading:
 **Tuesday, September 23**  
 **Website Review:** 
 <a href="https://freedomonthemove.org/" target="_blank">Freedom on the Move</a>
-- Copy, rename, and move this <a href="https://docs.google.com/document/d/1iJ76JzlcSR5aH3mpuYpapCx6d-tvRedAPWAe6qwE_Mk/edit?usp=sharing" target="_blank">form</a> to complete the assignment. Paste the associated url into Canvas.
+- Copy, rename, and move this <a href="https://docs.google.com/document/d/1iJ76JzlcSR5aH3mpuYpapCx6d-tvRedAPWAe6qwE_Mk/edit?usp=sharing" target="_blank">form</a> to complete the assignment. Paste the associated url into [Canvas here](https://denison.instructure.com/courses/16395/assignments/156223).
+
+- **Assignment: [Upload Mac N' Cheese xml](https://denison.instructure.com/courses/16395/assignments/156224) ***Rememnber, I just want you to try***
 
 **Thursday, September 25**  
 **XML/PEI (Proctor Encoding Initiative)**
