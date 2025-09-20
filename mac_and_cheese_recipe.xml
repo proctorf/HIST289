@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe>
+    <title>One-Pan Mac and Cheese</title>
+    
+    <ingredients>
+        <ingredient>
+            <item>yellow onions</item>
+            <quantity>2</quantity>
+            <preparation>halved, peeled, and minced</preparation>
+        </ingredient>
+        <ingredient>
+            <item>butter</item>
+            <quantity>4 TBSP</quantity>
+        </ingredient>
+        <ingredient>
+            <item>milk</item>
+            <quantity>2 cups</quantity>
+        </ingredient>
+        <ingredient>
+            <item>water</item>
+            <quantity>½ cup</quantity>
+        </ingredient>
+        <ingredient>
+            <item>pasta</item>
+            <quantity>16-oz box</quantity>
+            <type>elbow macaroni or shells</type>
+        </ingredient>
+        <ingredient>
+            <item>grated cheddar cheese</item>
+            <quantity>2 cups</quantity>
+        </ingredient>
+        <ingredient>
+            <item>salt and pepper</item>
+            <quantity>to taste</quantity>
+        </ingredient>
+        <ingredient optional="true">
+            <item>chopped kale</item>
+        </ingredient>
+        <ingredient optional="true">
+            <item>brown mustard</item>
+            <type>Grey Poupon</type>
+            <quantity>1 dollop</quantity>
+        </ingredient>
+    </ingredients>
+    
+    <instructions>
+        <step number="1">
+            <action>Halve, peel, and mince two yellow onions.</action>
+        </step>
+        <step number="2">
+            <action>Heat four TBSP of butter in oven-proof pan over medium heat.</action>
+        </step>
+        <step number="3">
+            <action>Add the onion to the pot and cook, tossing, for 5-6 minutes until soft.</action>
+            <time>5-6 minutes</time>
+        </step>
+        <step number="4">
+            <action>Add 2 cups milk and ½ cup water to the pan and bring to a boil.</action>
+        </step>
+        <step number="5">
+            <action>Add one 16-oz box pasta (elbow macaroni or shells) to the pan, stirring very often, until the pasta is al dente and the sauce has thickened, about 10-12 minutes.</action>
+            <time>10-12 minutes</time>
+            <tip>If the sauce becomes too thick before the pasta is done, simply add a splash of water.</tip>
+        </step>
+        <step number="6" optional="true">
+            <action>When the pasta is done, mix in some chopped kale.</action>
+        </step>
+        <step number="7">
+            <action>Remove the pan from the heat and stir in 2 cups of grated cheddar cheese.</action>
+        </step>
+        <step number="8">
+            <action>Add salt and pepper to taste.</action>
+        </step>
+        <step number="9" optional="true">
+            <action>When adding the cheese, add a dollop of brown mustard like Grey Poupon.</action>
+        </step>
+        <step number="10">
+            <action>Place the pan under the broiler in the oven for 2-3 minutes until top starts to brown.</action>
+            <time>2-3 minutes</time>
+            <equipment>broiler</equipment>
+        </step>
+    </instructions>
+    
+    <equipment>
+        <item>oven-proof pan</item>
+        <item>oven with broiler</item>
+    </equipment>
+    
+    <cooking_method>one-pan</cooking_method>
+    <total_time>approximately 20-25 minutes</total_time>
+</recipe>
