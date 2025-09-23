@@ -25,19 +25,26 @@ Together, these extensions provide syntax highlighting, validation, formatting, 
   - Helps generate matching end tags as soon as you type a start tag.  
   - Adds convenience commands for wrapping selections with tags.  
 
+- **HTML Tag Wrap by Brad Gashler**
+  - Allows us to select text and add element tags around it.
+
 ---
 
 ## 2. Useful Shortcuts
 
-- **Wrap selection with a tag (Emmet)**  
-  1. Select the text.  
-  2. Press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (Windows/Linux) or <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (Mac).  
-  3. Choose **Emmet: Wrap with Abbreviation**.  
-  4. Type the tag name (e.g. `p`, `item`) and press <kbd>Enter</kbd>.  
+-- **Wrap text with a tag**  
+  1. Highlight the text you want to wrap.  
+  2. Press the shortcut:  
+     - Windows/Linux: <kbd>Alt</kbd> + <kbd>W</kbd>  
+     - Mac: <kbd>Option</kbd> + <kbd>W</kbd>  
+  3. Type the element name (e.g., `p`, `item`, `div`) and press <kbd>Enter</kbd>.  
+  4. The extension will automatically add `<tag> ... </tag>` around the selection.  
 
-  *Tip:* Bind **Emmet: Wrap with Abbreviation** to a direct shortcut for faster use.  
+- **Change the wrapping tag**  
+  1. Place the cursor inside existing tags.  
+  2. Use the same shortcut (<kbd>Alt</kbd> + <kbd>W</kbd> / <kbd>Option</kbd> + <kbd>W</kbd>) to re-wrap with a different element.
 
-- **Format the entire document**  
+- **Format the entire document**  (This controls indentation, linebreaks, and whitespaces)
   - Windows/Linux: <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>F</kbd>  
   - Mac: <kbd>Shift</kbd> + <kbd>Option</kbd> + <kbd>F</kbd>  
 
