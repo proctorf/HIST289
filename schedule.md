@@ -76,7 +76,7 @@ XML Readings:
 - <a href="https://fordhamgsdh.wordpress.com/2016/06/16/tei-and-xml-markup-for-absolute-beginners" target="_blank">TEI and XML Markup for absolute beginners</a>
 - <a href="http://dh.obdurodon.org/what-is-xml.xhtml" target="_blank">Obdurodon's "What is XML and Why should humanists care?"</a>
 
-**Exercise** [VSCode XML Setup Guide](VSCode-XML-Setup.md)
+**Exercise** [VSCode XML Setup Guide](VSCode-XML-Setup.md) and [VScode XML Ease of Use](XML_Hints.xml)
 
 **Thursday, September 18**  
 **Slavery and Freedom in Ohio cont. / XML**
