@@ -97,6 +97,8 @@ Reading:
 
 - **Assignment: [Upload Mac N' Cheese xml](https://denison.instructure.com/courses/16395/assignments/156224) ***Rememnber, I just want you to try***
 
+**Finding Ads**[Instructions on Finding Ads ](https://docs.google.com/document/d/1AsYwC4bY28roUFU49bxe6uIJ2Sh9iUtiIFb1DPpXgA4/edit?usp=sharing)
+
 **Thursday, September 25**  
 **XML/PEI (Proctor Encoding Initiative)**
 
