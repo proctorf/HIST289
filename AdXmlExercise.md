@@ -1,8 +1,10 @@
-# Newspaper Encoding Assignment  
+# Fugative Ad Encoding Assignment  
 
 You will work in **teams of 2** (with one team of 3). Each team will receive a document to encode. 
 
-Assignment: Encode an Ad in XML (not looking for perfection, but for you to work through the experience), and submit a group reflection that includes your responses to Part 1 and Part 6 below.
+Assignment: Encode an ad in XML (not looking for perfection, but for you to work through the experience), and submit a group reflection that includes your responses to Part 1 and Part 6 below.
+
+Due: [Thurs, Oct. 2, 10am](https://denison.instructure.com/courses/16395/assignments/162385)
 
 ---
 
