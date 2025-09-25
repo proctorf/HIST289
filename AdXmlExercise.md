@@ -13,11 +13,12 @@ Before you begin encoding:
 - As a team, write a **short statement (3–4 sentences)** answering:  
   - *What do you want your encoded product to be/do?*  
   - *What kinds of questions could encoding help you ask about this document?*  
+  - *What purposes can you imagine encoding the document serving for you and future researchers*
 
 ---
 
-## Part 2: Locate Metadata  
-Follow this guide to identify citation details for your assigned document:  
+## Part 2: Locate Your Ad  
+Follow this guide to find an ad to encode:  
 👉 **[How to locate the document in the newspaper database →](https://docs.google.com/document/d/1AsYwC4bY28roUFU49bxe6uIJ2Sh9iUtiIFb1DPpXgA4/edit?usp=sharing)**  
 
 ---
@@ -40,9 +41,7 @@ Go to **[tei.org](https://tei.org)**. Now that you've identified the elements yo
 - **Structural:** `<p>`, `<div>`, `<lb/>`, `<note>`, `<quote>`  
 - **Entities:** `<name>`, `<place>`, `<date>`  
 - **Citation:** `<bibl>`, `<title>`, `<author>`, `<publisher>`
-
-As a team, make a **bullet list of what you learn** about these tags and attributes (e.g., `@type`, `@when`).  
-
+ 
 ---
 
 ## Part 5: Encode in XML  
