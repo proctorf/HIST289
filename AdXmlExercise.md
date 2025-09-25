@@ -36,7 +36,7 @@ Write down your observations before moving to Part 4.
 ---
 
 ## Part 4: Explore TEI  
-Go to **[tei.org](https://tei.org)**. Now that you've identified the elements you want to encode, investigate TEI best practices for these categories:  
+Go to **[tei.org](https://tei-c.org)**. Now that you've identified the elements you want to encode, investigate TEI best practices for these categories:  
 
 - **Structural:** `<p>`, `<div>`, `<lb/>`, `<note>`, `<quote>`  
 - **Entities:** `<name>`, `<place>`, `<date>`  
