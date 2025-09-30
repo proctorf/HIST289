@@ -1,0 +1,42 @@
+start = advertisement
+
+advertisement = element advertisement { header, transcript }
+
+header = element header { citationInfo, respDesc, revisionDesc? }
+
+citationInfo = element citationInfo {articleTitle?, journalTitle, publicationDate+, publicationPlace+, page, url?, adUrl?} #citation info
+articleTitle = element articleTitle { text }
+journalTitle = element journalTitle { text } #newspaper title
+publicationDate = element publicationDate { when, text }
+when = attribute when { xsd:date | xsd:gYearMonth | xsd:gYear } #this has to be in yyyy-mm-dd format
+publicationPlace = element publicationPlace { settlement, state, text }
+url = element url { xsd:anyURI }# use for any absolute url beginning in http:// but not relative links
+adUrl = element adUrl {xsd:anyURI} # this will allow us to add links to our files in the GitHub repository
+page = element page { xsd:integer }  #this will only accept whole numbers
+
+respDesc = element respDesc { created } # information on who created this XML
+created = element created { resp, when, notes*, text } # this is you, provide your name 
+notes = element notes { text }  #this is where you can add any notes about the document
+resp = attribute resp { text } # use # + your initials - #ftp
+
+revisionDesc = element revisionDesc { change+ } # not required, but would be used if someone makes changes to the XML doc
+change = element change { resp, when, text }
+
+transcript = element transcript { p*, graphic*, lb*, hi*, text } # this is where you add the text of your ad
+graphic = element graphic { rend?, height?, width?, relativeUrl?, figDesc? } # use this if there is an image in the ad
+rend = attribute rend { "left" | "right" | "bold" | "italics" | "long s" | "allCaps" | text }# hi= highlights, location of image or any physical elements of the ad
+height = attribute height { text } 
+width = attribute width { text }
+relativeUrl = attribute relativeURL { text }# location of copy of image 
+figDesc = attribute figDesc { text }
+
+p = element p {mixed { (name | place | date | lb | hi)* }} #use this to mark paragraphs
+lb = element lb { empty }  # Optional, use to mark lines in your ad
+hi = element hi { rend, text }
+
+# Simple markup for transcript - just basic identification, detailed analysis goes in separate file
+name = element name { xmlid, text } # use to tag people in the text - detailed info goes in people-places.xml
+xmlid = attribute xml:id { text } # this links to the detailed person record in the other file
+place = element place { ref?, text } # to mark place names in your ad - detailed info goes in people-places.xml  
+ref = attribute ref {text} # this links to the detailed place record in the other file
+date = element date { when, text } # to mark dates in your ad
