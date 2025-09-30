@@ -112,15 +112,16 @@ Reading:
 **Runaway Slaves in the US**
 
 Readings:
-- Franklin and Schweninger, *Runaway Slaves*, 5 & 9 and Appendix 7 "Runaway Slave Database"
+- Franklin and Schweninger, <a href="https://drive.google.com/file/d/1K9f99-IVsLpavr4F6uhgyW-1LBNGcl3B/view?usp=sharing" target="_blank">*Runaway Slaves*, 5 & 9 and Appendix 7 "Runaway Slave Database"</a> <span style="color: red;">(Moved)</span>
 - Stephanie Camp, <a href="https://heinonline.org/HOL/P?h=hein.peggy/csfd0001&i=51" target="_blank">*Closer to Freedom*</a>, Ch 2
 
 **Thursday, October 2**  
 **Interpretations of Runaways**
 
 Readings:
+- Franklin and Schweninger, <a href="https://drive.google.com/file/d/1K9f99-IVsLpavr4F6uhgyW-1LBNGcl3B/view?usp=sharing" target="_blank">*Runaway Slaves*, 5 & 9 and Appendix 7 "Runaway Slave Database"</a>
 - Antonio Bly, <a href="https://doi.org/10.1080/0144039X.2020.1801069" target="_blank">"'Indubitable Signs': Reading Silence as Text in New England Runaway Slave Advertisements,"</a> *Slavery & Abolition* 42:2 (2021): 240-268.
-- I.M Nick, <a href="https://ans-names.pitt.edu/ans/article/view/2436" target="_blank">"In the Name of Freedom: A Corpus Linguistic Analysis of Personal Names Recorded in Fugitive Slaver Advertisements Published in New York and New Jersey 18th-Century Newspapers,"</a> *Names* 70:3(2022): 12-23.
+
 
 ---
 
@@ -132,6 +133,7 @@ Readings:
 Readings:
 - Susanna Ashton and Jonathan D. Hepworth, "<a href="http://theappendix.net/issues/2013/10/reclaiming-a-fugitive-landscape" target="_blank">Jackson Unchained: Reclaiming a Fugitive Landscape</a>," *The Appendix*, November 5, 2013
 - Amani Marshall, "'<a href="https://doi.org/10.1080/01440391003711065" target="_blank">They Will Endeavor to Pass for Free': Enslaved Runaways' Performances of Freedom in Antebellum South Carolina</a>," *Slavery & Abolition* 31, no. 2 (2010): 161-180.
+- I.M Nick, <a href="https://ans-names.pitt.edu/ans/article/view/2436" target="_blank">"In the Name of Freedom: A Corpus Linguistic Analysis of Personal Names Recorded in Fugitive Slaver Advertisements Published in New York and New Jersey 18th-Century Newspapers,"</a> *Names* 70:3(2022): 12-23. <span style="color: red;">(Moved)</span>
 
 [**Exercise - ESRI StoryMaps and StoryMap.JS**](MappingTwo.md)
 
