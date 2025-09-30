@@ -1,0 +1,113 @@
+start = xml
+
+
+xml = element xml { header, transcript, footer }
+
+header = element header { citationInfo, respDesc, revisionDesc? }
+
+citationInfo = element citationInfo {articleTitle?, journalTitle, publicationDate+, publicationPlace+, page, url?, adUrl?} #citation info
+articleTitle = element articleTitle { text }
+journalTitle = element journalTitle { text } #newspaper title
+publicationDate = element publicationDate { when, text }
+when = attribute when { xsd:date | xsd:gYearMonth | xsd:gYear } #this has to be in yyyy-mm-dd format
+publicationPlace = element publicationPlace { settlement, state, text }
+url = element url { xsd:anyURI }# use for any absolute url beginning in http:// but not relative links
+adUrl = element adUrl {xsd:anyURI} # this will allow us to add links to our files in the GitHub repository
+page = element page { xsd:integer }  #this will only accept whole numbers
+
+
+respDesc = element respDesc { created } # information on who created this XML
+created = element created { resp, when, notes*, text } # this is you, provive your name 
+notes = element notes { text }  #this is where you can add ++any notes about the document
+resp = attribute resp { text } # use # + your initials - #ftp
+
+revisionDesc = element revisionDesc { change+ } # not required, but would be used if someone makes changes to the XML doc
+change = element change { resp, when, text }
+
+transcript = element transcript { p*, graphic*, lb*, hi*, text } # this is where you add the text of your add
+graphic = element graphic { rend?, height?, width?, relativeUrl?, figDesc? } # use this if there is an image in the ad
+rend = attribute rend { "left" | "right" | "bold" | "italics" | "long s" | "allCaps" | text }# hi= highlights, location of image or any physical elements of the ad
+height = attribute height { text } # 
+width = attribute width { text }
+relativeUrl = attribute relativeURL { text }# location of copy of image 
+figDesc = attribute figDesc { text }
+
+p = element p {mixed { (name | place | date | lb | hi)* }} #use this to mark paragraphs
+lb = element lb { empty }  # Optional, use to mark lines in your ad
+hi = element hi { rend, text }
+
+name = element name { xmlid, hi*, text } # use to tag people in the text
+xmlid = attribute xml:id { text } # this is a special idnetifier for each person in the ad, at this point leave blank
+place = element place {ref?, placeType?, text } # to mark place names in your ad
+ref = attribute ref {text}
+placeType = attribute placeType {"origin" | "potential destination" | "location last seen" | "pubPlace" | text}
+date = element date { when, dateType, text } # to mark dates in your ad
+dateType =     attribute dateType {"lastSeen" | "departure" | "dateOfSubmission" | "dateWritten" | "publicationDate" | "other" | text}
+
+footer = element footer { adType, rewardInfo, listPerson+, listPlace+, empty } # section where we will pull out specific info on reward, people, and places in the ad
+adType = element adType {type}
+type = attribute type {"jailer" | "enslaver" | text}
+rewardInfo = element rewardInfo { amount, criteria* } 
+amount = element amount { minAmount+, maxAmount*, text } # copy and tag language about reward
+minAmount = attribute minAmount { xsd:double } # use if there is only 1 reward, or if there are multple offers. Must use decimal to two places "x.00"
+maxAmount = attribute maxAmount { xsd:double } #use if there are multiple reward values
+criteria = element criteria { text } #capture conditions (in state, out of state, etc)
+
+listPerson = element listPerson { persName+} # this creates a tag block where you will list all the people in the add using "perName"
+persName = element persName {mixed{xmlid, role, sex, foreName, midName?, surName?, alias*, (enslaverInfo|characteristics)}} # use to create entry on each individual in ad, tag full name as text and record other as attributes info
+alias = attribute alias { text }
+role = attribute role { "enslaved" | "enslaver" | "collaborator" | "other" | text }
+sex = attribute sex { "m" | "f" }
+foreName = attribute foreName { text } # first name
+midName = attribute midName { text } # middle name
+surName = attribute surName { text } # last name
+enslaverInfo = element enslaverInfo { text } # use if the person tagged is an enslaver
+characteristics = element characteristics { physical, countenance, otherFeatures, empty }  #use to capture physical, personality, and other feature for enslaved fugatives
+
+physical = element physical {mixed{phenotype*|build*|eyes|ears|teeth|scars|minHeight|maxHeight|minAge|maxAge|clothing*| possessions?}*} # only include element when you have data
+phenotype = element phenotype{text}  #racial classification
+build = element build { text } # bodytype
+eyes = element eyes { text }
+ears = element ears { text }
+teeth = element teeth { text }
+scars = element scars { text }
+minHeight = element minHeight {inches, text} # use if there is one or multiple descriptions
+inches = attribute inches {xsd:double} # in inches
+maxHeight = element maxHeight {inches, text} # use if more than one description
+minAge = element minAge {years, text} # use if there is one or multiple descriptions
+years= attribute years{xsd:integer} # in years, whole numbers
+maxAge = element maxAge {years, text}# in years, use if multiple descriptors
+clothing = element clothing { text }
+possessions = element possessions { text }
+
+countenance = element countenance {mixed{ speech* | behavior* | previousRunaway* | passAsFree* | other* }*}
+speech = element speech { text }
+behavior = element behavior { text }
+previousRunaway = element previousRunaway { ran, text } # does ad indicate if they ranway before
+ran = attribute ran { "y" }
+other = element other { text }
+passAsFree = element passAsFree { pass, text } # does ad indicate if they will attempt to pass as free
+pass = attribute pass { "y" } # do NOT use to indicate if the enslved person might have false paper (see below)
+
+
+otherFeatures = element otherFeatures {mixed{ inAGroup?| literate?| skills?| papersDesc?| hadHelp?| horse? }*} # other info about enslaved person
+inAGroup = element inAGroup { group?, with?, text } # use if multiple runaways included in ad
+group = attribute group { "y" }
+with = element with { text }
+literate = element literate {canRead?,text?} # can they read/write?
+canRead = attribute canRead {"y"}
+skills = element skills { text }
+papersDesc = element papersDesc { papers, text } # text on papers in ad
+papers = attribute papers { "y" }
+hadHelp = element hadHelp { text } # did anyone help the runaay
+horse = element horse {hadHorse?, text} #indicate if the runaway had a horse, in the "text" field you can inlcude any text from the add about the horse
+hadHorse = attribute hadHorse {"y"}
+
+
+listPlace = element listPlace { placeName+, empty } # this creates a tag block where you will discuss places in the ad
+placeName = element placeName {placeType, settlement?, county?, state?, country?, geo?, text}
+settlement = attribute settlement { text } # city, town, village, etc
+county = attribute county { text } # use if the add includes info, or you find, info on the county of location
+state = attribute state { text } # refers to the US state or Canadian provide
+country = attribute country { text } 
+geo = attribute geo { text } # latitude, longitude
