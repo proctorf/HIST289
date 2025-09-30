@@ -75,7 +75,7 @@ Focus entirely on **faithful transcription** of the advertisement text with basi
 ## File 2: Data Analysis File (`your-ad-data.xml`)
 
 ### Purpose
-Extract and structure **detailed information** about people, places, and other data from the advertisement.
+Extract and structure **detailed information** about people and places mentioned in the advertisement.
 
 ### Schema: `data-analysis-schema.rnc`
 
@@ -83,35 +83,21 @@ Extract and structure **detailed information** about people, places, and other d
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="data-analysis-schema.rnc" type="application/relax-ng-compact-syntax"?>
-<data>
+<peopleAndPlaces>
     <header>
-        <citationInfo>
-            <journalTitle>Daily Ohio Statesman</journalTitle>
-            <publicationDate when="1853-07-14">July 14, 1853</publicationDate>
-            <publicationPlace>
-                <settlement>Columbus</settlement>
-                <state>Ohio</state>
-                Columbus, Ohio
-            </publicationPlace>
-            <page>3</page>
-            <adUrl>your-ad-transcript.xml</adUrl>
-        </citationInfo>
+        <linkedTranscript transcriptFile="your-ad-transcript.xml">
+            <transcriptTitle>$50 Reward Advertisement</transcriptTitle>
+        </linkedTranscript>
         
         <respDesc>
             <created resp="#abc" when="2025-09-30">
-                <notes>Data analysis of advertisement</notes>
+                <notes>People and places analysis</notes>
                 Created by Student Name
             </created>
         </respDesc>
     </header>
     
     <analysis>
-        <adType type="enslaver"/>
-        
-        <rewardInfo>
-            <amount minAmount="50.00">$50 reward</amount>
-            <criteria>if returned to owner</criteria>
-        </rewardInfo>
         
         <listPerson>
             <persName xml:id="tom1" role="enslaved" sex="m" 
@@ -159,11 +145,11 @@ Extract and structure **detailed information** about people, places, and other d
 3. Use simple attributes: `xml:id`, `ref`, `when`
 4. **Don't worry about** detailed analysis yet
 
-### **Step 2: Create Data Analysis File**
-1. **Extract detailed information** about people and places
+### **Step 2: Create People and Places Analysis File**
+1. **Extract detailed information** about people and places only
 2. Use the **same IDs** to link back to transcript
 3. Add **structured data**: physical descriptions, place types, etc.
-4. **Analyze and categorize** the information
+4. **Focus purely on** people and geographic information
 
 ### **Step 3: Link the Files**
 - Use `adUrl` in both files to reference each other

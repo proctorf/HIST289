@@ -1,33 +1,19 @@
-start = data
+start = peopleAndPlaces
 
-data = element data { header, analysis }
+peopleAndPlaces = element peopleAndPlaces { header, analysis }
 
-header = element header { citationInfo, respDesc }
+header = element header { linkedTranscript, respDesc }
 
-citationInfo = element citationInfo {articleTitle?, journalTitle, publicationDate+, publicationPlace+, page, adUrl?} #citation info - simplified for data file
-articleTitle = element articleTitle { text }
-journalTitle = element journalTitle { text } #newspaper title
-publicationDate = element publicationDate { when, text }
-when = attribute when { xsd:date | xsd:gYearMonth | xsd:gYear } #this has to be in yyyy-mm-dd format
-publicationPlace = element publicationPlace { settlement, state, text }
-adUrl = element adUrl {xsd:anyURI} # link to your transcript file
-page = element page { xsd:integer }  #this will only accept whole numbers
+linkedTranscript = element linkedTranscript { transcriptFile, transcriptTitle? } # link to the transcript file this analysis relates to
+transcriptFile = attribute transcriptFile { text } # filename of the related transcript
+transcriptTitle = element transcriptTitle { text } # optional title to identify the advertisement
 
-respDesc = element respDesc { created } # information on who created this XML
+respDesc = element respDesc { created } # information on who created this analysis
 created = element created { resp, when, notes*, text } # this is you, provide your name 
 notes = element notes { text }  #this is where you can add any notes about the analysis
 resp = attribute resp { text } # use # + your initials - #ftp
 
-analysis = element analysis { adType, rewardInfo, listPerson+, listPlace+ } # structured data extracted from the advertisement
-
-adType = element adType {type}
-type = attribute type {"jailer" | "enslaver" | text}
-
-rewardInfo = element rewardInfo { amount, criteria* } 
-amount = element amount { minAmount+, maxAmount*, text } # copy and tag language about reward
-minAmount = attribute minAmount { xsd:double } # use if there is only 1 reward, or if there are multiple offers. Must use decimal to two places "x.00"
-maxAmount = attribute maxAmount { xsd:double } #use if there are multiple reward values
-criteria = element criteria { text } #capture conditions (in state, out of state, etc)
+analysis = element analysis { listPerson+, listPlace+ } # people and places extracted from the advertisement
 
 listPerson = element listPerson { persName+} # this creates a tag block where you will list all the people in the ad using "persName"
 persName = element persName {mixed{xmlid, role, sex, foreName, midName?, surName?, alias*, (enslaverInfo|characteristics)}} # use to create entry on each individual in ad, tag full name as text and record other info as attributes
