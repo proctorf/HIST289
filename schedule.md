@@ -135,6 +135,8 @@ Readings:
 - Amani Marshall, "'<a href="https://doi.org/10.1080/01440391003711065" target="_blank">They Will Endeavor to Pass for Free': Enslaved Runaways' Performances of Freedom in Antebellum South Carolina</a>," *Slavery & Abolition* 31, no. 2 (2010): 161-180.
 - I.M Nick, <a href="https://ans-names.pitt.edu/ans/article/view/2436" target="_blank">"In the Name of Freedom: A Corpus Linguistic Analysis of Personal Names Recorded in Fugitive Slaver Advertisements Published in New York and New Jersey 18th-Century Newspapers,"</a> *Names* 70:3(2022): 12-23. <span style="color: red;">(Moved)</span>
 
+***Assignment***[Reading Response](https://denison.instructure.com/courses/16395/assignments/163537)
+
 [**Exercise - ESRI StoryMaps and StoryMap.JS**](MappingTwo.md)
 
 **Thursday, October 9**  
