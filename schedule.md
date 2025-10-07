@@ -137,7 +137,9 @@ Readings:
 
 ***Assignment***[Reading Response](https://denison.instructure.com/courses/16395/assignments/163537)
 
-[**Exercise - ESRI StoryMaps and StoryMap.JS**](MappingTwo.md)
+[**Exercise - ESRI StoryMaps and StoryMap.JS**](MappingTwo.md) [
+
+<a href="https://denison.instructure.com/courses/16395/assignments/163989" target="_blank">Turn in the Assignment here</a> **Due OCT 13**
 
 **Thursday, October 9**  
 **Advanced Mapping / QGIS**
