@@ -1,5 +1,9 @@
 # Mapping Two
 
+Assignment - Map a map using either StoryMaps or StoryMaps.js (see below).  You can make a map of Andrew Jackson's runnaway experience OR a ***reimagining*** of the data you used in your first map.  Explore the various map types that StoryMaps provides.  Then write a 250-word reflection on the experience of making this map.  
+
+Turn in the Assignment here
+
 ### ESRI StoryMaps - https://storymaps.arcgis.com/
 
 **ESRI StoryMaps: **
