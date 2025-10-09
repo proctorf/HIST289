@@ -149,6 +149,18 @@ Readings:
 
 **In Class Exercise** <a href="https://proctorf.github.io/HIST289/Columbus/Instructions" target="_blank">Recreate a Map from Mapping Inequality</a>
 
+**QGIS Tutorials for Take-Home Learning:**
+Work through these tutorials outside of class to prepare for your final mapping project - recreating the 1860 slave population distribution map using IPUMS census data and historical shapefiles.
+
+**Updated QGIS 3.x Tutorial (Recommended):**
+<a href="https://geospatialhistorian.wordpress.com/lesson-2-installing-qgis-and-adding-layers-qgis-3-0/" target="_blank">Installing QGIS and Adding Layers (QGIS 3.0)</a> by Geospatial Historian team
+
+**Programming Historian QGIS Tutorials (Note: Based on older QGIS 2.x - interface differences expected):**
+<a href="https://programminghistorian.org/en/lessons/qgis-layers" target="_blank">Installing QGIS and Adding Layers (QGIS 2.x)</a>
+<a href="https://programminghistorian.org/en/lessons/vector-layers-qgis" target="_blank">Creating New Vector Layers in QGIS</a>
+<a href="https://programminghistorian.org/en/lessons/georeferencing-qgis" target="_blank">Georeferencing in QGIS</a>
+<a href="https://programminghistorian.org/en/lessons/geocoding-qgis" target="_blank">Geocoding Historical Data in QGIS</a>
+
 ---
 
 ## Week 8 {#week8}
@@ -158,6 +170,9 @@ Readings:
 
 Reading:
 - Susan Schulten, "<a href="https://doi.org/10.1353/cwh.0.0141" target="_blank">The Cartography of Slavery and the Authority of Statistics</a>," *Civil War History* 56:1 (2010): 5-32.
+
+**Final Mapping Project Goal:** Using QGIS skills from these tutorials, you'll recreate the historic "Map showing the distribution of the slave population in the southern states of the United States. Compiled from the census of 1860" using IPUMS census data and 1860 US boundary shapefiles.
+
 
 **Thursday, October 16**  
 **FALL BREAK - NO CLASS**
