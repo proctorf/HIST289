@@ -137,7 +137,7 @@ Readings:
 
 ***Assignment***[Reading Response](https://denison.instructure.com/courses/16395/assignments/163537)
 
-[**Exercise - ESRI StoryMaps and StoryMap.JS**](MappingTwo.md) [
+[**Exercise - ESRI StoryMaps and StoryMap.JS**](MappingTwo.md)
 
 <a href="https://denison.instructure.com/courses/16395/assignments/163989" target="_blank">Turn in the Assignment here</a> **Due OCT 13**
 
@@ -146,6 +146,8 @@ Readings:
 
 **Website Review** <a href="https://dsl.richmond.edu/panorama/redlining/" target="_blank">Mapping Inequality</a>
 - Copy, rename, and move this <a href="https://docs.google.com/document/d/1iJ76JzlcSR5aH3mpuYpapCx6d-tvRedAPWAe6qwE_Mk/edit?usp=sharing" target="_blank">form</a> to complete the assignment. Paste the associated url into Canvas [<a href="https://denison.instructure.com/courses/16395/assignments/163988" target="_blank">here</a>.
+
+**In Class Exercise** <a href="https://proctorf.github.io/HIST289/Columbus/Instructions" target="_blank">Recreate a Map from Mapping Inequality</a>
 
 ---
 
