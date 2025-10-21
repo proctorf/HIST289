@@ -187,6 +187,8 @@ Reading:
 Readings:
 - Cameron Blevins, "<a href="https://www.jstor.org/stable/44285951" target="_blank">Space, Nation, and the Triumph of Region: A View of the World from Houston</a>," *The Journal of American History* 101:1 (2014): 122-147.
 
+- Assignment: <a href="https://proctorf.github.io/HIST289/Mapping3" target="_blank">Mapping #3</a> - Slave Populations in QGIS [turn in assignment here](https://denison.instructure.com/courses/16395/assignments/165636)
+
 **Thursday, October 23**  
 **Distant Reading Primer**
 
