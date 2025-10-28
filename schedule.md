@@ -200,7 +200,7 @@ Readings:
 **Tuesday, October 28**  
 **Distant Reading Primer**
 
-- Johanna Drucker, "Data Mining and Text Analysis," in *The Digital Humanities Coursebook* (Routledge, 2021),110-120.
+- Johanna Drucker, "[Data Mining and Text Analysis](Drucker_Distant_Reading.pdf)," in *The Digital Humanities Coursebook* (Routledge, 2021),110-120.
 - Cameron Blevins,<a href="http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/" target="_blank">"Topic Modeling Martha Ballard's Diary,"</a> April 1, 2010
 - Eleanor Stribling, <a href="https://medium.com/agatha-codes/a-bossy-sort-of-voice-3c3a18de3093" target="_blank">"A Bossy Sort of Voice: Quantifying gender bias in "Harry Potter" with Python and NLTK"</a> *Medium* May 4, 2018 (don't worry about the code)
 - Aatish Bhatia, <a href="https://www.nytimes.com/interactive/2023/04/26/upshot/gpt-from-scratch.html?searchResultPosition=1" target="_blank">"Watch an A.I Learn to Write by Reading Nothing but Jane Austen,"</a> The New York Times, April 27, 2023 (accessed 9/11/23)
