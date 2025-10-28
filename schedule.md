@@ -208,7 +208,7 @@ Readings:
 **Website Review** - <a href="https://dsl.richmond.edu/dispatch/introduction" target="_blank">"Mining the Dispatch"</a>
 - Copy, rename, and move this <a href="https://docs.google.com/document/d/1iJ76JzlcSR5aH3mpuYpapCx6d-tvRedAPWAe6qwE_Mk/edit?usp=sharing" target="_blank">form</a> to complete the assignment. Paste the associated url into Canvas.
 
-**Tutorial - Distant Reading with Voyant and nocodefunction.com**
+**Tutorial - Distant Reading with [Voyant](https://docs.google.com/document/d/1kAAd4_wVxRhpmtnmfBlLmrgXvbecy1TxRf8QunlE8Kw/edit?usp=sharing) and [nocodefunction.com](https://scribehow.com/viewer/Transform_Text_into_Networks_with_VOSviewer__dnH-vVFoQoaPeOk4Sm7r9A)**
 
 **Thursday, October 30**  
 **Runaway Slave Narratives / Distant Reading with LLMs**
