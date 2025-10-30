@@ -8,7 +8,7 @@ hide_warning: true
 
 ## Tutorial: Reading Across Texts
 
-This week, we're going to go further in our interactions with prompt-based systems by providing them with new data. For this exercise, you're going to choose at least one text to analyze through distant reading using your Claude.AI subscription, starting with my prompts and working towards developing and iterating your own questions. I recommend using Claude Opus 4 for this exercise, as it handles large text files and data analysis particularly well. Depending on the text length, you might find that you need to work in sections or iterate your approach: keep refining until you are happy with your results.
+This week, we're going to go further in our interactions with prompt-based systems by providing them with new data. For this exercise, you're going to choose at least one text to analyze through distant reading using your denai access [denai.denison.edu](denai.denison.edu), starting with my prompts and working towards developing and iterating your own questions. I recommend using Claude Opus 4 for this exercise, as it handles large text files and data analysis particularly well. Depending on the text length, you might find that you need to work in sections or iterate your approach: keep refining until you are happy with your results.
 
 ### AI-Assisted Distant Read
 
