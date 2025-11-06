@@ -234,9 +234,6 @@ Readings:
 **Thursday, November 6**  
 **Visualizations / Tableau**
 
-***Software Installation*** <a href="https://www.tableau.com/academic/students" target="_blank">Tableau for Students</a> (Please install before class)
-
-
 Readings:
 - Nathan Yau, <a href="https://drive.google.com/file/d/1HNFFzp9un-9yW8LFRP0lfzoILzL-bX-B/view?usp=sharing" target="_blank">*Data Points: Visualization That Means Something*</a>, selected chapters
 
