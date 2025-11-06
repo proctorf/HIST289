@@ -237,7 +237,9 @@ Readings:
 Readings:
 - Nathan Yau, <a href="https://drive.google.com/file/d/1HNFFzp9un-9yW8LFRP0lfzoILzL-bX-B/view?usp=sharing" target="_blank">*Data Points: Visualization That Means Something*</a>, selected chapters
 
-  ***Tutorial: <a href="https://proctorf.github.io/HIST289/Tableau-Tutorial-From-Workbook" target="_blank">Tableau***</a> Turn in your [Assignment here](https://denison.instructure.com/courses/16395/assignments/150360)
+  ***Tutorial: <a href="https://proctorf.github.io/HIST289/Tableau-Tutorial-From-Workbook" target="_blank">Tableau***</a>
+  - Here is the <a href="https://docs.google.com/spreadsheets/d/1Ot-HdwrT1TUS9KUlw_GYHk9V40qBh_6t/edit?usp=sharing&ouid=103828547799467409555&rtpof=true&sd=true" target="_blank">data</a> (You may need to download or copy it)
+  -Turn in your [Assignment here](https://denison.instructure.com/courses/16395/assignments/150360)
 
 ---
 
