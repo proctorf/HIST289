@@ -237,6 +237,8 @@ Readings:
 Readings:
 - Nathan Yau, <a href="https://drive.google.com/file/d/1HNFFzp9un-9yW8LFRP0lfzoILzL-bX-B/view?usp=sharing" target="_blank">*Data Points: Visualization That Means Something*</a>, selected chapters
 
+  ***Tutorial: <a href="https://proctorf.github.io/HIST289/Tableau-Tutorial-From-Workbook" target="_blank">Tableau***</a> Turn in your [Assignment here](https://denison.instructure.com/courses/16395/assignments/150360)
+
 ---
 
 ## Week 12 {#week12}
