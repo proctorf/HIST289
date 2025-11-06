@@ -59,7 +59,7 @@
 
 **3. Generated Fields**
 - **Geographic fields** → Tableau creates Latitude/Longitude for mapping
-- **Number of Records** → Simple count of rows in your dataset
+- **Count field** → Simple count of rows (named after your Excel sheet, like "Workshop Data 1 (Count)")
 
 **4. Show Me Panel**
 - Upper right corner of screen
@@ -89,24 +89,29 @@
 1. **Clear the sheet** (🗑️ in toolbar) or create **New Worksheet** (+)
 
 2. **Create your first chart**
-   - Double-click **Number of Records** from the data panel
+   - Double-click **"Workshop Data 1 (Count)"** (or similar name) from the data panel
    - Congratulations! You made your first chart!
 
-3. **Understand what happened**
-   - Tableau put the measure on the Rows shelf
-   - Bottom left shows "Number of Marks" and "Sum(Number of Records)"
+3. **Rename for clarity**
+   - Right-click **"Workshop Data 1 (Count)"** in data panel
+   - Rename it **"Number of Movies"** 
+   - This makes it easier to understand what we're counting
 
-4. **Improve the label**
-   - Right-click **Number of Records** in data panel
-   - Rename it **"Number of Movies"**
-   - Notice the Y-axis updates!
+4. **Understand what happened**
+   - Tableau put the measure on the Rows shelf
+   - Bottom left shows "Number of Marks" and the sum of your count field
 
 5. **Add a breakdown**
    - Drag **Rating** to the Columns shelf
    - How did the chart change?
    - Hover over bars to see tooltips
 
-6. **Name your sheet**
+6. **Try different orientations**
+   - Click **Swap Rows and Columns** button (⇄) in the toolbar
+   - See how the chart orientation changes
+   - Click it again to return to the original view
+
+7. **Name your sheet**
    - Right-click sheet tab → Rename → "Number of Movies by Rating"
    - Tableau uses this as the chart title!
 
@@ -120,10 +125,16 @@
 
 3. **Change aggregation**
    - Right-click **SUM(Budget)** pill on Rows shelf
-   - Change from **SUM** to **AVERAGE**
-   - Notice how tooltips change!
+   - Select **Measure** from the dropdown menu
+   - Choose **Average** from the submenu
+   - Notice how the pill changes to **AVG(Budget)** and tooltips update!
 
-4. **Rename sheet**: "Avg Budget by Rating"
+4. **Think about the difference**
+   - Compare this chart to your previous one (Number of Movies by Rating)
+   - What story does SUM tell vs. AVERAGE?
+   - Which rating category has the highest total spending vs. highest average spending?
+
+5. **Rename sheet**: "Avg Budget by Rating"
 
 ### Drill 2.3: Show Average Gross by Rating
 
@@ -416,7 +427,7 @@
 5. **Flip orientation**
    - Click **Swap Rows and Columns** icon (⇄)
 6. **Add volume information**
-   - Drag **Number of Records** to **Color** card
+   - Drag **Number of Movies** to **Color** card
 7. **Rename sheet**: "Profit Ratio by Release Quarter"
 
 ### Drill 8.4: Create a Dashboard
@@ -467,16 +478,42 @@
 
 ## Module 9: Next Steps
 
+---
+
+## Final Reflection Assignment
+
+### Part A: Practical Analysis (150-200 words)
+
+Reflect on what you learned from analyzing this movie dataset. Consider these questions:
+
+1. **ROI Insights**: What did your analysis reveal about which types of films have the best return on investment? Think about:
+   - Which ratings (G, PG, PG-13, R) showed the highest profit ratios?
+   - How did release timing affect profitability?
+   - What patterns did you notice between budget size and success?
+
+2. **Historical Perspective**: How might these insights be useful for understanding the film industry during this time period? What questions would you want to explore next?
+
+### Part B: Tutorial Reflection (100-150 words)
+
+Reflect on your experience working through this Tableau tutorial:
+
+1. **Learning Process**: What was the most challenging part of learning Tableau? What clicked for you?
+2. **Skills Gained**: Which visualization techniques do you think will be most useful for your future work?
+
+### Part C: Fail Log (100-150 words)
+
+Document your problem-solving process:
+
+1. **Issues Encountered**: What technical problems did you run into? (e.g., data not loading, charts not appearing as expected, confusion about interface elements)
+2. **Solutions Found**: How did you overcome these challenges? What resources helped you?
+3. **Lessons Learned**: What would you do differently if you started this tutorial again?
+
+---
+
 ### Continue Learning Tableau
 - **Tableau.com/learn**: Free videos and training
 - **Viz of the Day**: Daily inspiration email
 - **Makeover Monday**: Weekly data visualization challenges
-- **Local user groups**: Connect with other users
-
-### Learn Data Visualization
-- **"The Truthful Art"** by Alberto Cairo
-- **Books by Stephen Few, Edward Tufte, Cole Nussbaumer Knaflic**
-- **Practice with real data** regularly
 
 ### Key Takeaways
 1. **Start with questions** - What do you want to know?
