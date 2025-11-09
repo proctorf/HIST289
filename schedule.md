@@ -257,7 +257,7 @@ Readings:
 **Visualizing Data II - Humanities Provocations / Final Projects**
 
 Readings:
-- Johanna Drucker, "<a href="https://www.ucl.ac.uk/dh/events/SusanHockeyLecture/2016" target="_blank">Graphic provocations: What do digital humanists want from visualization?</a>" (watch the lecture)
+- Johanna Drucker, "<a href="https://www.ucl.ac.uk/dh/events/SusanHockeyLecture/2016" target="_blank">Graphic provocations: What do digital humanists want from visualization?</a>" (watch the lecture, ignore the Q&A)
 - Lauren Klein, "<a href="https://hdsr.mitpress.mit.edu/pub/oraonikr/release/3" target="_blank">What Data Visualization Reveals: Elizabeth Palmer Peabody and the Work of Knowledge Production</a>," *Harvard Data Science Review* 4:2 (2022): 1-34.
 
 **Website Review** <a href="https://Unsilencing-slavery.org" target="_blank">(Un)Silencing Slavery</a>
