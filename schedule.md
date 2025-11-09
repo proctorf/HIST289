@@ -187,10 +187,20 @@ Reading:
 Readings:
 - Cameron Blevins, "<a href="https://www.jstor.org/stable/44285951" target="_blank">Space, Nation, and the Triumph of Region: A View of the World from Houston</a>," *The Journal of American History* 101:1 (2014): 122-147.
 
+- Assignment: <a href="https://proctorf.github.io/HIST289/Mapping3" target="_blank">Mapping #3</a> - Slave Populations in QGIS [turn in assignment here](https://denison.instructure.com/courses/16395/assignments/165636)
+
 **Thursday, October 23**  
+
+**Mapping with QGIS (Game-ified)**
+
+---
+
+## Week 10 {#week10}
+
+**Tuesday, October 28**  
 **Distant Reading Primer**
 
-- Johanna Drucker, "Data Mining and Text Analysis," in *The Digital Humanities Coursebook* (Routledge, 2021),110-120.
+- Johanna Drucker, "[Data Mining and Text Analysis](Drucker_Distant_Reading.pdf)," in *The Digital Humanities Coursebook* (Routledge, 2021),110-120.
 - Cameron Blevins,<a href="http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/" target="_blank">"Topic Modeling Martha Ballard's Diary,"</a> April 1, 2010
 - Eleanor Stribling, <a href="https://medium.com/agatha-codes/a-bossy-sort-of-voice-3c3a18de3093" target="_blank">"A Bossy Sort of Voice: Quantifying gender bias in "Harry Potter" with Python and NLTK"</a> *Medium* May 4, 2018 (don't worry about the code)
 - Aatish Bhatia, <a href="https://www.nytimes.com/interactive/2023/04/26/upshot/gpt-from-scratch.html?searchResultPosition=1" target="_blank">"Watch an A.I Learn to Write by Reading Nothing but Jane Austen,"</a> The New York Times, April 27, 2023 (accessed 9/11/23)
@@ -198,13 +208,9 @@ Readings:
 **Website Review** - <a href="https://dsl.richmond.edu/dispatch/introduction" target="_blank">"Mining the Dispatch"</a>
 - Copy, rename, and move this <a href="https://docs.google.com/document/d/1iJ76JzlcSR5aH3mpuYpapCx6d-tvRedAPWAe6qwE_Mk/edit?usp=sharing" target="_blank">form</a> to complete the assignment. Paste the associated url into Canvas.
 
-**Tutorial - Distant Reading with Voyant and nocodefunction.com**
+**Tutorial - Distant Reading with [Voyant](https://docs.google.com/document/d/1kAAd4_wVxRhpmtnmfBlLmrgXvbecy1TxRf8QunlE8Kw/edit?usp=sharing) and [nocodefunction.com](https://scribehow.com/viewer/Transform_Text_into_Networks_with_VOSviewer__dnH-vVFoQoaPeOk4Sm7r9A)**
 
----
-
-## Week 10 {#week10}
-
-**Tuesday, October 28**  
+**Thursday, October 30**  
 **Runaway Slave Narratives / Distant Reading with LLMs**
 
 Readings:
@@ -213,25 +219,17 @@ Readings:
 **Tutorial** -  
 [Reading Across Texts](Reading_Across_Texts.md)
 
-**Thursday, October 30**  
+---
+
+## Week 11 {#week11}
+
+**Tuesday, November 4**  
 **Distant Reading with AI Code Assistant**
 
 - <a href="https://drive.google.com/file/d/17RlEPzRwrRxeVNiAyS3mgbb0zQzYAasV/view?usp=sharing" target="_blank">Narrative of Henry Bibb</a>
 
 **Tutorial**
 
----
-
-## Week 11 {#week11}
-
-**Tuesday, November 4**  
-**Digital Humanities and Data**
-
-Readings:
-- Catherine D'Ignazio and Lauren Klein, "CH 6 - The Numbers Don't Speak for Themselves," in <a href="https://dewey2.library.denison.edu/record=b8287792~S6" target="_blank">*Data Feminism*</a> (Cambridge, MA: MIT University Press, 2020), 149-172.
-- Jessica Marie Johnson, <a href="https://doi-org.denison.idm.oclc.org/10.1215/01642472-7145658" target="_blank">"Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads,"</a> *Social Text* 36:4 (2018): 57-79.
-- Pranshu Verma, <a href="https://www.washingtonpost.com/technology/2022/07/16/racist-robots-ai/" target="_blank">"These robots were trained on AI. They became racist and sexist,"</a> The Washington Post, July 16, 2022
-- Nitasha Tiku, Kevin Schaul and Szu Yu Chen, <a href="https://www.washingtonpost.com/technology/interactive/2023/ai-generated-images-bias-racism-sexism-stereotypes/" target="_blank">"This is how AI image generators see the world,"</a> The Washington Post (November 1st, 2023)
 
 **Thursday, November 6**  
 **Visualizations / Tableau**
@@ -239,16 +237,21 @@ Readings:
 Readings:
 - Nathan Yau, <a href="https://drive.google.com/file/d/1HNFFzp9un-9yW8LFRP0lfzoILzL-bX-B/view?usp=sharing" target="_blank">*Data Points: Visualization That Means Something*</a>, selected chapters
 
+  ***Tutorial: <a href="https://proctorf.github.io/HIST289/Tableau-Tutorial-From-Workbook" target="_blank">Tableau***</a>
+  - Here is the <a href="https://docs.google.com/spreadsheets/d/1Ot-HdwrT1TUS9KUlw_GYHk9V40qBh_6t/edit?usp=sharing&ouid=103828547799467409555&rtpof=true&sd=true" target="_blank">data</a> (You may need to download or copy it)
+  -Turn in your [Assignment here](https://denison.instructure.com/courses/16395/assignments/150360)
+
 ---
 
 ## Week 12 {#week12}
 
 **Tuesday, November 11**  
-**Digital History - A Critique / Tableau**
+**Digital Humanities and Data**
 
-Readings
-- Jesse Hoffnung-Garskof, "<a href="https://doi-org.denison.idm.oclc.org/10.1093/ahr/rhab007" target="_blank">Cuban Racial Politics in Nineteenth-Century New York: A Critical Approach</a>," *American Historical Review* 126:1 (2021): 109-139.
+Readings:
+- Catherine D'Ignazio and Lauren Klein, "CH 6 - The Numbers Don't Speak for Themselves," in <a href="https://dewey2.library.denison.edu/record=b8287792~S6" target="_blank">*Data Feminism*</a> (Cambridge, MA: MIT University Press, 2020), 149-172.
 - John Theibault, "<a href="https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:8/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#8.1" target="_blank">Visualizations and Historical Arguments</a>"
+- Jessica Marie Johnson, <a href="https://doi-org.denison.idm.oclc.org/10.1215/01642472-7145658" target="_blank">"Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads,"</a> *Social Text* 36:4 (2018): 57-79.
 
 **Thursday, November 13**  
 **Visualizing Data II - Humanities Provocations / Final Projects**
@@ -265,7 +268,7 @@ Readings:
 ## Week 13 {#week13}
 
 **Tuesday, November 18**  
-**Other cool tools - Inky, OpenRefine, and GEPHI**
+**Final Project Workday (and some cool additional tools like Inky, OpenRefine, and GEPHI)**
 
 - Billy Perrigo, "OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic," TIME, January 18, 2023
 - <a href="https://samplereality.itch.io/content-moderator-sim" target="_blank">Content Moderator Sim</a>
