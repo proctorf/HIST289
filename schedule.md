@@ -249,8 +249,8 @@ Readings:
 **Digital Humanities and Data**
 
 Readings:
-- Catherine D'Ignazio and Lauren Klein, "CH 6 - The Numbers Don't Speak for Themselves," in <a href="https://dewey2.library.denison.edu/record=b8287792~S6" target="_blank">*Data Feminism*</a> (Cambridge, MA: MIT University Press, 2020), 149-172.
-- John Theibault, "<a href="https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:8/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#8.1" target="_blank">Visualizations and Historical Arguments</a>"
+- Catherine D'Ignazio and Lauren Klein, "CH 6 - The Numbers Don't Speak for Themselves," in <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_askewsholts_vlebooks_9780262358538" target="_blank">*Data Feminism*</a> (Cambridge, MA: MIT University Press, 2020), 149-172.
+- John Theibault, "<a href="https://proctorf.github.io/HIST289/Theibault.pdf" target="_blank">Visualizations and Historical Arguments</a>" in *Writing History in the Digital Age,* Kristen Nawrotzki and Jack Dougherty, eds. (Univ. of Michigan Press, 2013), 173-185.
 - Jessica Marie Johnson, <a href="https://doi-org.denison.idm.oclc.org/10.1215/01642472-7145658" target="_blank">"Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads,"</a> *Social Text* 36:4 (2018): 57-79.
 
 **Thursday, November 13**  
