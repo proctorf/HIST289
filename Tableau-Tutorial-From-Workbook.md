@@ -93,9 +93,11 @@
    - Congratulations! You made your first chart!
 
 3. **Rename for clarity**
-   - Right-click **"Workshop Data 1 (Count)"** in data panel
+   - Right-click **"Workshop Data 1 (Count)"** in the canvas panel
    - Rename it **"Number of Movies"** 
    - This makes it easier to understand what we're counting
+   - You cannot rename a "generated" or "count" pill created by Tableau. But, you can create a new field, naming it whatever you want, and copy the information from the count or generated pill
+    - To do so, click on the pill in question, select the down arrow, select "Create", select "Calculated Field"; rename the field whatever you want and use the formula Count[(FieldName)], in this instance use Count[(Workshop Data 1)]
 
 4. **Understand what happened**
    - Tableau put the measure on the Rows shelf
@@ -330,8 +332,9 @@
 1. **Start with your Key Financial Data sheet**
 
 2. **Create a calculated field**
-   - Click dropdown arrow next to "Dimensions" 
-   - Select **"Create Calculated Field..."**
+   - Notice that in the "Data pane" directly above the list of fields from your data there is a search bar, and next to that are icons for "filter by" (the funnel), "view data", (the speadsheet), and a down arrow.
+   - Select the down arrow (this opens up a new dropdown window)
+   - Select **"Create Calculated Field..."** (you can also find this under the "Analysis" Tab)
 
 3. **Name and formula**
    - Name: "Correct ROI Ratio"
@@ -462,16 +465,29 @@
 
 ### Drill 8.6: Publish to Share
 
-1. **Create an extract**
-   - **Data** menu → Select your data source → **Extract** → **Extract**
+1. **Save to Tableau Public**
+   - From the **File** menu Select **Save to Tableau Public As...**
+   - This will prepare your workbook for online publishing
 
-2. **Publish to Tableau Public**
-   - **Server** menu → **Tableau Public** → **Save to Tableau Public**
-   - Sign in to your account
-   - Add title and description
+2. **Log in or create account**
+   - Sign in to your existing Tableau Public account
+   - Or create a new free account if you don't have one
+   - Complete the login process
 
-3. **Test your published dashboard**
+3. **Name your visualization**
+   - Give your dashboard a descriptive title
+   - Click **Save**
+
+4. **Capture your dashboard URL**
+   - Once published, your dashboard opens in a web browser
+   - Look for the **Share** button (looks like a sideways V with circles at the end of the lines)
+   - Click it to get the shareable link
+   - Copy this URL for submission or sharing
+
+5. **Test your published dashboard**
+   - Paste the copied url into a new web browser
    - Verify interactivity works online
+   - Try the filters and hover effects
    - Share the link with others!
 
 ---
