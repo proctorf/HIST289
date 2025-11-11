@@ -249,7 +249,7 @@ Readings:
 **Digital Humanities and Data**
 
 Readings:
-- John Theibault, "<a href="https://proctorf.github.io/HIST289/Theibault.pdf" target="_blank">Visualizations and Historical Arguments</a>" in *Writing History in the Digital Age,* Kristen Nawrotzki and Jack Dougherty, eds. (Univ. of Michigan Press, 2013), 173-185. Here is the <a href="https://https://writinghistory.trincoll.edu/evidence/theibault-2012-spring/index.html" target="_blank">web version of the essay with visualizations.</a>
+- John Theibault, "<a href="https://proctorf.github.io/HIST289/Theibault.pdf" target="_blank">Visualizations and Historical Arguments</a>" in *Writing History in the Digital Age,* Kristen Nawrotzki and Jack Dougherty, eds. (Univ. of Michigan Press, 2013), 173-185. Here is the <a href="https://https://writinghistory.trincoll.edu/evidence/theibault-2012-spring/index.html" target="_blank">web version of the essay with visualizations.</a> ***But note that the text is different between the two versions***
 - Catherine D'Ignazio and Lauren Klein, "CH 6 - The Numbers Don't Speak for Themselves," in <a href="https://primo.denison.edu/permalink/01OHIOLINK_DENISON/pkms4v/cdi_askewsholts_vlebooks_9780262358538" target="_blank">*Data Feminism*</a> (Cambridge, MA: MIT University Press, 2020), 149-172.
 - Jessica Marie Johnson, <a href="https://doi-org.denison.idm.oclc.org/10.1215/01642472-7145658" target="_blank">"Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads,"</a> *Social Text* 36:4 (2018): 57-79.
 
