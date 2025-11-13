@@ -261,7 +261,7 @@ Readings:
 - Lauren Klein, "<a href="https://hdsr.mitpress.mit.edu/pub/oraonikr/release/3" target="_blank">What Data Visualization Reveals: Elizabeth Palmer Peabody and the Work of Knowledge Production</a>," *Harvard Data Science Review* 4:2 (2022): 1-34.
 
 **Website Review** <a href="https://Unsilencing-slavery.org" target="_blank">(Un)Silencing Slavery</a>
-- Copy, rename, and move this <a href="https://docs.google.com/document/d/1iJ76JzlcSR5aH3mpuYpapCx6d-tvRedAPWAe6qwE_Mk/edit?usp=sharing" target="_blank">form</a> to complete the assignment. Paste the associated url into Canvas.
+- Copy, rename, and move this <a href="https://docs.google.com/document/d/1iJ76JzlcSR5aH3mpuYpapCx6d-tvRedAPWAe6qwE_Mk/edit?usp=sharing" target="_blank">form</a> to complete the assignment. Paste the associated url into Canvas [here](https://denison.instructure.com/courses/16395/assignments/169318).
 
 ---
 
