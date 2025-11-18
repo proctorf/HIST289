@@ -302,7 +302,7 @@ Readings:
 
 Course Evaluations
 
-**Final Project Due: Sunday, December 14, 2025 @ 8:30pm**
+**[Final Project Due: Sunday, December 14, 2025 @ 8:30](https://proctorf.github.io/HIST289/FinalProjectRubric)pm**
 
 ---
 ---
