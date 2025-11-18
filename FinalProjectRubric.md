@@ -71,6 +71,3 @@ Teams of up to 3 students will design and complete a web-born research project t
 - **D**: 66-76 points
 - **F**: Below 66 points
 
----
-
-*This rubric emphasizes both rigorous historical scholarship and innovative digital presentation, appropriate for projects that will contribute to public understanding of enslaved fugitive experiences.*
