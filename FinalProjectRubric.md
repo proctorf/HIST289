@@ -6,11 +6,11 @@ layout: default
 # Digital History Team Project Rubric: Enslaved Fugitives in the United States
 
 ## Project Overview
-Teams of up to 3 students will design and complete a web-born research project that poses a historical question about the experiences of enslaved fugitives in the United States and uses digital tools to investigate and present findings. Projects must be grounded in primary source data and accessible through web-based platforms.
+Teams of up to 3 students will design and complete a web-born research project that poses a historical question about the experiences of enslaved fugitives Ohioe (or in the United States) and uses digital tools to investigate and present findings. Projects must be grounded in primary source data and accessible through web-based platforms.
 
 ---
 
-## Evaluation Criteria (Total: 100 points)
+## Evaluation Criteria (Total: 110 points)
 
 | Criteria | Excellent | Good | Satisfactory | Needs Improvement |
 |----------|-----------|------|--------------|-------------------|
@@ -19,52 +19,55 @@ Teams of up to 3 students will design and complete a web-born research project t
 | **Digital Tool Implementation** (20 pts) | **18-20 points**<br/>• Sophisticated and creative use of digital tools appropriate to research question<br/>• Tool choice enhances understanding of fugitive experiences<br/>• Demonstrates technical mastery<br/>• Innovative application revealing new insights | **15-17 points**<br/>• Competent use of digital tools<br/>• Tool choice supports analysis of fugitive experiences<br/>• Shows solid technical skills<br/>• Good application enhances the argument | **12-14 points**<br/>• Basic use of digital tools<br/>• Tool choice adequate but limited impact<br/>• Shows developing technical skills<br/>• Minimal enhancement of historical analysis | **0-11 points**<br/>• Poor or inappropriate use of digital tools<br/>• Tools don't support analysis of fugitive experiences<br/>• Weak technical execution<br/>• No clear benefit from digital approach |
 | **Web-Born Design & Accessibility** (15 pts) | **14-15 points**<br/>• Professional, engaging web presentation for public audience<br/>• Clear navigation and intuitive user experience<br/>• Responsive design across devices<br/>• Incorporates accessibility best practices<br/>• Creative use of web-native features | **11-13 points**<br/>• Well-designed web presentation<br/>• Generally clear navigation and user experience<br/>• Works well on most devices<br/>• Some attention to accessibility<br/>• Good use of web features | **8-10 points**<br/>• Basic web presentation<br/>• Navigation needs improvement<br/>• Limited responsiveness<br/>• Minimal accessibility considerations<br/>• Basic use of web features | **0-7 points**<br/>• Poor web design or presentation<br/>• Confusing navigation or broken functionality<br/>• Not responsive or accessible<br/>• Fails to leverage web-native capabilities |
 | **Historical Analysis & Interpretation** (12 pts) | **11-12 points**<br/>• Sophisticated analysis connecting digital findings to broader themes in fugitive slave history<br/>• Thoughtful interpretation advancing understanding of enslaved resistance<br/>• Acknowledges gaps and limitations in historical record<br/>• Makes meaningful contributions to scholarship on freedom-seeking | **9-10 points**<br/>• Good analysis connecting digital work to fugitive slave historiography<br/>• Solid interpretation of patterns and findings<br/>• Some awareness of source limitations<br/>• Draws reasonable historical conclusions | **6-8 points**<br/>• Basic analysis with limited historical context<br/>• Simple interpretation of results<br/>• Minimal engagement with broader themes<br/>• Limited historical conclusions | **0-5 points**<br/>• Weak or missing historical analysis<br/>• Poor interpretation of findings<br/>• No connection to fugitive slave history<br/>• No clear historical conclusions |
-| **Teamwork & Documentation** (8 pts) | **7-8 points**<br/>• Exceptional collaboration with clear methodology documentation<br/>• All team members (up to 3) contribute meaningfully<br/>• Transparent about data sources and digital processes<br/>• Individual contributions clearly integrated | **6 points**<br/>• Good collaboration with adequate documentation<br/>• Most team members contribute effectively<br/>• Generally clear about methods and sources<br/>• Individual work mostly well-integrated | **4-5 points**<br/>• Basic collaboration and documentation<br/>• Uneven contributions from team members<br/>• Limited transparency about methods<br/>• Some integration issues | **0-3 points**<br/>• Poor collaboration or documentation<br/>• Significant imbalance in contributions<br/>• Unclear methodology or sources<br/>• Individual work not integrated |
+| **Process Documentation** (10 pts) | **9-10 points**<br/>• Comprehensive documentation of research methodology and workflow<br/>• Clear explanation of digital tool choices and implementation decisions<br/>• Thoughtful reflection on challenges, setbacks, and problem-solving approaches<br/>• Transparent about data cleaning, analysis decisions, and limitations<br/>• Demonstrates critical thinking about the digital humanities process | **7-8 points**<br/>• Good documentation of research process and methodology<br/>• Adequate explanation of tool choices and decisions<br/>• Some reflection on challenges and approaches<br/>• Generally transparent about data and analysis processes<br/>• Shows understanding of digital methodology | **5-6 points**<br/>• Basic documentation of research process<br/>• Limited explanation of methodology or tool choices<br/>• Minimal reflection on process or challenges<br/>• Some transparency about data and methods<br/>• Basic understanding of digital approach | **0-4 points**<br/>• Poor or missing process documentation<br/>• No explanation of methodology or decisions<br/>• No reflection on research process<br/>• Lack of transparency about methods<br/>• No evidence of methodological thinking |
+| **Team Page & Collaboration** (8 pts) | **7-8 points**<br/>• Exceptional team page showcasing individual contributions and collaborative process<br/>• All team members (up to 3) contribute meaningfully with clearly defined roles<br/>• Transparent integration of individual work into cohesive project<br/>• Professional presentation of team dynamics and workflow | **6 points**<br/>• Good team page with clear individual contributions<br/>• Most team members contribute effectively<br/>• Individual roles and work mostly well-documented<br/>• Adequate presentation of collaborative process | **4-5 points**<br/>• Basic team page with limited individual contribution details<br/>• Uneven contributions from team members<br/>• Some documentation of roles and collaboration<br/>• Minimal presentation of team process | **0-3 points**<br/>• Poor or missing team page<br/>• Significant imbalance in contributions<br/>• Unclear individual roles or contributions<br/>• No clear evidence of collaboration |
 
 ---
 
 ## Required Deliverables Checklist:
-- [ ] Project proposal with research question, sources, and digital methodology
-- [ ] Web-born digital project (accessible via URL)
+- [ ] **Web-born digital project (accessible via URL) with three main sections:**
+  - [ ] **Analysis Section**: Historical findings, argument, and interpretation of fugitive slave experiences
+  - [ ] **Process Section**: Detailed documentation of methodology, tool choices, challenges, and thought processes
+  - [ ] **Team Page**: Individual contributions, roles, collaborative workflow, and team dynamics
 - [ ] Data documentation (sources, cleaning process, metadata)
 - [ ] Individual reflection essays analyzing the digital humanities approach to fugitive slave history
 - [ ] Class presentation (15-20 minutes) with live demonstration
 
 ## Suggested Primary Source Collections:
 - **Fugitive Slave Advertisements**: Freedom on the Move database, newspaper archives
-- **Newspaper Articles**: Chronicling America, state historical society databases
+- **Newspaper Articles**: Americas Historical Newspapers, Chronicling America
 - **Slave Narratives**: Documenting the American South, North American Slave Narratives
 - **WPA Slave Narratives**: Library of Congress Born in Slavery collection
-- **Court Records**: County and state archives, legal databases
 - **Underground Railroad Documentation**: Local historical societies, Quaker meeting records
 
 ## Digital Tool Applications for This Topic:
 - **Mapping**: Escape routes, geographic patterns, network analysis
-- **Data Visualization**: Temporal patterns, demographic analysis, economic factors
+- **Data Visualization**: Temporal patterns, demographic analysis
 - **Text Analysis**: Narrative themes, language patterns in advertisements
 - **Network Analysis**: Underground Railroad connections, family networks
 - **Timeline/Story Maps**: Individual journeys, community experiences
+- **Digital Narratives**: Using digital platforms to innovatively explore experiences of a fugitive or group of fugitives
+- **Data Encoding**: Create a schema (.xsd) for encoding ads in XML and a stylesheet (.xslt) to transform XML into HTML (.xslt) with a Style Sheet (.css) 
 
 ---
 
 ## Bonus Considerations (up to 5 extra points):
-- Exceptional engagement with Ohio fugitive slave history
-- Creative cross-referencing of multiple source types
+
 - Public history component or community engagement
 - Innovative digital methodology for historical analysis
 - Outstanding contribution to understanding fugitive experiences
 
 ## Grade Scale:
-- **A**: 93-100 points
-- **A-**: 90-92 points  
-- **B+**: 87-89 points
-- **B**: 83-86 points
-- **B-**: 80-82 points
-- **C+**: 77-79 points  
-- **C**: 73-76 points
-- **C-**: 70-72 points
-- **D**: 60-69 points
-- **F**: Below 60 points
+- **A**: 102-110 points
+- **A-**: 99-101 points  
+- **B+**: 96-98 points
+- **B**: 91-95 points
+- **B-**: 88-90 points
+- **C+**: 85-87 points  
+- **C**: 80-84 points
+- **C-**: 77-79 points
+- **D**: 66-76 points
+- **F**: Below 66 points
 
 ---
 
