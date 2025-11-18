@@ -25,13 +25,15 @@ Teams of up to 3 students will design and complete a web-born research project t
 ---
 
 ## Required Deliverables Checklist:
-- [ ] **Web-born digital project (accessible via URL) with three main sections:**
+[ ] **Web-born digital project (accessible via URL) with three main sections:**
   - [ ] **Analysis Section**: Historical findings, argument, and interpretation of fugitive slave experiences
-  - [ ] **Process Section**: Detailed documentation of methodology, tool choices, challenges, and thought processes
-  - [ ] **Team Page**: Individual contributions, roles, collaborative workflow, and team dynamics
-- [ ] Data documentation (sources, cleaning process, metadata)
-- [ ] Individual reflection essays analyzing the digital humanities approach to fugitive slave history
-- [ ] Class presentation (15-20 minutes) with live demonstration
+  - [ ] **Data Documentation and Process Section**: Discussion of data and methodology, tool choices, challenges, and thought processes
+  - [ ] **Team Page**: Individual contributors and roles. Tell us a little about yourselves.
+  -- [ ] Data documentation (sources, cleaning process, metadata)
+
+[ ] Individual reflection essays analyzing the digital humanities approach to fugitive slave history
+
+[ ] Class presentation with live demonstration
 
 ## Suggested Primary Source Collections:
 - **Fugitive Slave Advertisements**: Freedom on the Move database, newspaper archives
