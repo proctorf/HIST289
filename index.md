@@ -188,7 +188,7 @@ about the arguments therein; and, how they might impact our
 class/project. (Students will be allowed to drop the lowest 10% of
 scores)
 
-**Final Project (40%)**
+**Final Project (40%)** - [See Below for specific instructions and grade break down](#Final-Project)
 
 **Attendance and Contribution (15%)**
 
@@ -248,6 +248,7 @@ negatively impact your contribution grade.
 |---------------------|---------------------------|---------------------------|------------------------------|
 | Use is *inappropriate*. Device is a distraction to others. **Examples**: A student uses their device to play games, view material unrelated to the course, OR hold social conversations. | Use is *distracting* to the student, their colleagues, and/or the instructor. Student frequently checks devices for information unrelated to the class. **Example**: A student takes out their phone to look at text messages several times in one class period. | Device is *not used* except during designed times, or device use is limited to quick checks during times of transition. **Example**: a student receives an important text from a parent, which they check quickly during our transition between group work and full-class discussion, but waits to respond until an appropriate time. | Device *only used* as an efficient academic tool for a direct purpose. Device is not a distraction. but used at appropriate times as an extension of work or learning. **Examples**: A student uses their phone to do research during a research project, or uses their laptop to create a collaborative document for a group project. |
 
+<a id="Final_Project"></a>
 **Final Project Assignment** --
 
 Collectively, we will create a working prototype of a digital history
@@ -315,7 +316,7 @@ AI can be a powerful tutor and instructor for many of the tools we will be explo
 
     - **Do not CITE AI.** Citations are meant to identify the work of other humans that you have consulted, and to provide a clear path to your evidence for your readers should they want to consult it themselves. AI-produced information is not reproducible, and thus is not a valid source.
 
-In our class, AI will serve as a technical tutor, but should not be used to generate ideas or arguments.  Please do not use AI for reading responses or other writing we may do.
+In our class, AI will serve as a technical tutor, but should not be used to generate ideas or arguments.  **Please** do not use AI for reading responses, web site analyses, or other writing we may do.
 
 
 **Late Work:** Deadlines matter! This is an important thing to
